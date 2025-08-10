@@ -1,0 +1,196 @@
+[21:27:24] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[21:27:24] [ForkJoinPool-1-worker-3/WARN]: Mod com_github_geysermc_unnamed-creative_creative-seriffd92408186d4d uses the version 817fa982c4 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '817fa982c4'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:27:24] [ForkJoinPool-1-worker-3/WARN]: Mod com_github_geysermc_unnamed-creative_creative-api uses the version 817fa982c4 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '817fa982c4'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:27:25] [main/INFO]: Loading 108 mods:
+	- advancednetherite 2.3.0-1.21.8
+	- fabric-api 0.131.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
+	   |-- fabric-particles-v1 4.1.8+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
+	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- floodgate 2.2.5-SNAPSHOT
+	   |-- aopalliance_aopalliance 1.0
+	   |-- com_google_guava_failureaccess 1.0.1
+	   |-- fabric-permissions-api-v0 0.4.1-SNAPSHOT
+	   |-- jakarta_inject_jakarta_inject-api 2.0.1
+	   |-- javax_inject_javax_inject 1
+	   |-- org_geysermc_cumulus_cumulus 1.1.2
+	   |-- org_geysermc_event_events 1.1-SNAPSHOT
+	   |-- org_geysermc_geyser_common_unshaded 2.2.1-SNAPSHOT
+	   |-- org_java-websocket_java-websocket 1.5.2
+	   \-- org_lanternpowered_lmbda 2.0.0
+	- geyser-fabric 2.8.3-SNAPSHOT
+	   |-- cloud 2.0.0-beta.12
+	   |    |-- io_leangen_geantyref_geantyref 1.3.15
+	   |    |-- org_incendo_cloud-brigadier 2.0.0-beta.11
+	   |    |-- org_incendo_cloud-core 2.0.0
+	   |    |-- org_incendo_cloud-minecraft-modded-common-fabric-repack 2.0.0-beta.12
+	   |    \-- org_incendo_cloud-services 2.0.0
+	   |-- com_fasterxml_jackson_core_jackson-annotations 2.18.0
+	   |-- com_fasterxml_jackson_core_jackson-core 2.18.0
+	   |-- com_fasterxml_jackson_core_jackson-databind 2.18.0
+	   |-- com_fasterxml_jackson_dataformat_jackson-dataformat-yaml 2.18.0
+	   |-- com_google_errorprone_error_prone_annotations 2.27.0
+	   |-- com_nukkitx_natives 1.0.3
+	   |-- io_airlift_aircompressor 0.27
+	   |-- io_jsonwebtoken_jjwt-api 0.12.6
+	   |-- io_jsonwebtoken_jjwt-gson 0.12.6
+	   |-- io_jsonwebtoken_jjwt-impl 0.12.6
+	   |-- io_netty_netty-codec-haproxy 4.2.3
+	   |-- net_jodah_expiringmap 0.5.10
+	   |-- net_kyori_adventure-api 4.24.0
+	   |-- net_kyori_adventure-key 4.24.0
+	   |-- net_kyori_adventure-nbt 4.24.0
+	   |-- net_kyori_adventure-text-serializer-commons 4.24.0
+	   |-- net_kyori_adventure-text-serializer-gson 4.24.0
+	   |-- net_kyori_adventure-text-serializer-json 4.24.0
+	   |-- net_kyori_adventure-text-serializer-json-legacy-impl 4.24.0
+	   |-- net_kyori_adventure-text-serializer-legacy 4.24.0
+	   |-- net_kyori_adventure-text-serializer-plain 4.24.0
+	   |-- net_kyori_examination-api 1.3.0
+	   |-- net_kyori_examination-string 1.3.0
+	   |-- net_kyori_option 1.1.0
+	   |-- net_lenni0451_commons_httpclient 1.6.0
+	   |-- net_raphimc_minecraftauth 4.1.1
+	   |-- org_bitbucket_b_c_jose4j 0.9.6
+	   |-- org_cloudburstmc_math_api 2.0
+	   |-- org_cloudburstmc_math_immutable 2.0
+	   |-- org_cloudburstmc_nbt 3.0.3
+	   |-- org_geysermc_api_base-api 1.0.2
+	   |-- org_geysermc_cumulus_cumulus 1.1.2
+	   |-- org_geysermc_event_events 1.1-SNAPSHOT
+	   |-- org_lanternpowered_lmbda 2.0.0
+	   \-- org_yaml_snakeyaml 2.2
+	- hydraulic 1.0.0-SNAPSHOT
+	   |-- com_github_geysermc_unnamed-creative_creative-api 817fa982c4
+	   |-- com_github_geysermc_unnamed-creative_creative-seriffd92408186d4d 817fa982c4
+	   |-- com_google_errorprone_error_prone_annotations 2.27.0
+	   |-- com_twelvemonkeys_common_common-image 3.9.4
+	   |-- com_twelvemonkeys_common_common-io 3.9.4
+	   |-- com_twelvemonkeys_common_common-lang 3.9.4
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.9.4
+	   |-- com_twelvemonkeys_imageio_imageio-tga 3.9.4
+	   |-- commons-io_commons-io 2.11.0
+	   |-- net_kyori_examination-api 1.3.0
+	   |-- net_kyori_examination-string 1.3.0
+	   |-- org_geysermc_pack_converter 3.4.1-SNAPSHOT
+	   |-- org_geysermc_pack_pack-schema-api 3.4.1-SNAPSHOT
+	   \-- org_jetbrains_annotations 24.0.1
+	- java 21
+	- minecraft 1.21.8
+	- stellarity 4.2.3
+	- terralith 2.5.11
+	- viabackwards 5.4.2
+	- viafabric 0.4.19+118-main
+	   |-- cotton-client-commands 1.1.0+1.15.2
+	   \-- viafabric-mc1218 0.4.19+118-main
+	- viaversion 5.4.2
+[21:27:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/test/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:27:25] [main/INFO]: Compatibility level set to JAVA_21
+[21:27:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:27:32] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[21:27:33] [main/WARN]: en_ is not a supported Floodgate language.
+[21:27:33] [main/INFO]: Loading extensions...
+[21:27:33] [main/INFO]: Loaded 0 extension(s)
+[21:27:34] [Via-Mappingloader-0/INFO]: Loading block connection mappings ...
+[21:27:35] [Via-Mappingloader-0/INFO]: Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:27:35] [main/INFO]: Loading translations...
+[21:27:35] [main/INFO]: Registering protocols...
+[21:27:35] [main/INFO]: ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[21:27:35] [ViaFabric-2/INFO]: Finished mapping loading, shutting down loader executor.
+[21:27:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:27:38] [main/INFO]: Loaded 1480 recipes
+[21:27:38] [main/INFO]: Loaded 1730 advancements
+[21:27:39] [main/INFO]: Applied 0 biome modifications to 0 of 192 new biomes in 1.939 ms
+[21:27:40] [Server thread/ERROR]: Encountered an unexpected exception
+java.util.ServiceConfigurationError: org.geysermc.hydraulic.pack.PackModule: org.geysermc.hydraulic.item.ItemPackModule Unable to get public no-arg constructor
+	at java.base/java.util.ServiceLoader.fail(ServiceLoader.java:586) ~[?:?]
+	at java.base/java.util.ServiceLoader.getConstructor(ServiceLoader.java:679) ~[?:?]
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1240) ~[?:?]
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273) ~[?:?]
+	at java.base/java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309) ~[?:?]
+	at java.base/java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393) ~[?:?]
+	at knot/org.geysermc.hydraulic.pack.PackManager.initialize(PackManager.java:132) ~[hydraulic-fabric.jar:?]
+	at knot/org.geysermc.hydraulic.HydraulicImpl.onServerStarting(HydraulicImpl.java:53) ~[hydraulic-fabric.jar:?]
+	at knot/net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$0(ServerLifecycleEvents.java:38) ~[fabric-lifecycle-events-v1-2.6.4+db4dfd852c-f17cf17b59df5ffd.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.handler$zen000$fabric-lifecycle-events-v1$beforeSetupServer(MinecraftServer.java:2697) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:672) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NoClassDefFoundError: org/geysermc/geyser/api/item/custom/v2/CustomItemDefinition$Builder
+	at java.base/java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.privateGetDeclaredConstructors(Class.java:3549) ~[?:?]
+	at java.base/java.lang.Class.getConstructor0(Class.java:3754) ~[?:?]
+	at java.base/java.lang.Class.getConstructor(Class.java:2442) ~[?:?]
+	at java.base/java.util.ServiceLoader$1.run(ServiceLoader.java:666) ~[?:?]
+	at java.base/java.util.ServiceLoader$1.run(ServiceLoader.java:663) ~[?:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571) ~[?:?]
+	at java.base/java.util.ServiceLoader.getConstructor(ServiceLoader.java:674) ~[?:?]
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: org.geysermc.geyser.api.item.custom.v2.CustomItemDefinition$Builder
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.14.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.privateGetDeclaredConstructors(Class.java:3549) ~[?:?]
+	at java.base/java.lang.Class.getConstructor0(Class.java:3754) ~[?:?]
+	at java.base/java.lang.Class.getConstructor(Class.java:2442) ~[?:?]
+	at java.base/java.util.ServiceLoader$1.run(ServiceLoader.java:666) ~[?:?]
+	at java.base/java.util.ServiceLoader$1.run(ServiceLoader.java:663) ~[?:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571) ~[?:?]
+	at java.base/java.util.ServiceLoader.getConstructor(ServiceLoader.java:674) ~[?:?]
+	... 11 more
+[21:27:40] [Server thread/ERROR]: This crash report has been saved to: /workspaces/test/servidor_minecraft/crash-reports/crash-2025-08-10_21.27.40-server.txt
+[21:27:40] [Server thread/INFO]: Geyser shutdown successfully.
+[21:27:40] [Server thread/INFO]: Stopping server
+[21:27:40] [Server thread/INFO]: Saving worlds
+[21:27:40] [Server thread/ERROR]: Exception stopping the server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_3218.method_8621()" because "$$5" is null
+	at knot/net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:569) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:628) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3782(class_3176.java:543) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:748) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[21:27:40] [Server Shutdown Thread/INFO]: ViaVersion has been disabled; uninjected the platform and shut down the scheduler.

@@ -1,0 +1,1724 @@
+{
+  "materials": {
+    "advancednetherite:item/netherite_emerald_helmet": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer1": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_sword": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_sword",
+        "layer1": "advancednetherite:item/netherite_emerald_sword"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_amethyst",
+        "layer1": "minecraft:trims/items/leggings_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_hoe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_hoe",
+        "layer1": "advancednetherite:item/netherite_emerald_hoe"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_resin",
+        "layer1": "minecraft:trims/items/leggings_trim_resin",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_ingot": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_ingot",
+        "layer1": "advancednetherite:item/netherite_iron_ingot"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_sword": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_sword",
+        "layer1": "advancednetherite:item/netherite_diamond_sword"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_amethyst",
+        "layer1": "minecraft:trims/items/boots_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer1": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_resin",
+        "layer1": "minecraft:trims/items/helmet_trim_resin",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_copper",
+        "layer1": "minecraft:trims/items/leggings_trim_copper",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_resin",
+        "layer1": "minecraft:trims/items/boots_trim_resin",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_quartz",
+        "layer1": "minecraft:trims/items/helmet_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer1": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_netherite",
+        "layer1": "minecraft:trims/items/helmet_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_quartz",
+        "layer1": "minecraft:trims/items/boots_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_gold",
+        "layer1": "minecraft:trims/items/chestplate_trim_gold",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_iron",
+        "layer1": "minecraft:trims/items/chestplate_trim_iron",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_resin",
+        "layer1": "minecraft:trims/items/boots_trim_resin",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_ingot": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_ingot",
+        "layer1": "advancednetherite:item/netherite_emerald_ingot"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_amethyst",
+        "layer1": "minecraft:trims/items/boots_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_netherite",
+        "layer1": "minecraft:trims/items/boots_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer1": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_emerald",
+        "layer1": "minecraft:trims/items/leggings_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_quartz",
+        "layer1": "minecraft:trims/items/helmet_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_netherite",
+        "layer1": "minecraft:trims/items/helmet_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_sword": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_sword",
+        "layer1": "advancednetherite:item/netherite_iron_sword"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer1": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_netherite",
+        "layer1": "minecraft:trims/items/leggings_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_axe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_axe",
+        "layer1": "advancednetherite:item/netherite_gold_axe"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_gold",
+        "layer1": "minecraft:trims/items/helmet_trim_gold",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_ingot": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_ingot",
+        "layer1": "advancednetherite:item/netherite_diamond_ingot"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer1": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer1": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_diamond",
+        "layer1": "minecraft:trims/items/helmet_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_hoe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_hoe",
+        "layer1": "advancednetherite:item/netherite_iron_hoe"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_gold",
+        "layer1": "minecraft:trims/items/chestplate_trim_gold",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_iron",
+        "layer1": "minecraft:trims/items/boots_trim_iron",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_gold",
+        "layer1": "minecraft:trims/items/boots_trim_gold",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_emerald",
+        "layer1": "minecraft:trims/items/leggings_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_lapis",
+        "layer1": "minecraft:trims/items/leggings_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer1": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer1": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer1": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_diamond",
+        "layer1": "minecraft:trims/items/leggings_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_copper",
+        "layer1": "minecraft:trims/items/boots_trim_copper",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_iron",
+        "layer1": "minecraft:trims/items/chestplate_trim_iron",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_copper",
+        "layer1": "minecraft:trims/items/leggings_trim_copper",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_lapis",
+        "layer1": "minecraft:trims/items/helmet_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_emerald",
+        "layer1": "minecraft:trims/items/boots_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_diamond",
+        "layer1": "minecraft:trims/items/leggings_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_resin",
+        "layer1": "minecraft:trims/items/chestplate_trim_resin",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_block": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_block",
+        "layer1": "advancednetherite:item/netherite_emerald_block"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_quartz",
+        "layer1": "minecraft:trims/items/leggings_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_axe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_axe",
+        "layer1": "advancednetherite:item/netherite_iron_axe"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer1": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_netherite",
+        "layer1": "minecraft:trims/items/boots_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_pickaxe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_pickaxe",
+        "layer1": "advancednetherite:item/netherite_gold_pickaxe"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_gold",
+        "layer1": "minecraft:trims/items/leggings_trim_gold",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_axe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_axe",
+        "layer1": "advancednetherite:item/netherite_diamond_axe"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_amethyst",
+        "layer1": "minecraft:trims/items/leggings_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer1": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_shovel": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_shovel",
+        "layer1": "advancednetherite:item/netherite_gold_shovel"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_lapis",
+        "layer1": "minecraft:trims/items/helmet_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_lapis",
+        "layer1": "minecraft:trims/items/boots_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_emerald",
+        "layer1": "minecraft:trims/items/helmet_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_redstone",
+        "layer1": "minecraft:trims/items/helmet_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_pickaxe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_pickaxe",
+        "layer1": "advancednetherite:item/netherite_iron_pickaxe"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_emerald",
+        "layer1": "minecraft:trims/items/helmet_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_iron",
+        "layer1": "minecraft:trims/items/helmet_trim_iron",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer1": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_gold",
+        "layer1": "minecraft:trims/items/leggings_trim_gold",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_netherite",
+        "layer1": "minecraft:trims/items/leggings_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_gold",
+        "layer1": "minecraft:trims/items/chestplate_trim_gold",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_copper",
+        "layer1": "minecraft:trims/items/boots_trim_copper",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_diamond",
+        "layer1": "minecraft:trims/items/leggings_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer1": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_diamond",
+        "layer1": "minecraft:trims/items/leggings_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer1": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer1": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_lapis",
+        "layer1": "minecraft:trims/items/leggings_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_block": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_block",
+        "layer1": "advancednetherite:item/netherite_iron_block"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer1": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_quartz",
+        "layer1": "minecraft:trims/items/boots_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_resin",
+        "layer1": "minecraft:trims/items/helmet_trim_resin",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_gold_sword": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_sword",
+        "layer1": "advancednetherite:item/netherite_gold_sword"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_resin",
+        "layer1": "minecraft:trims/items/chestplate_trim_resin",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_quartz",
+        "layer1": "minecraft:trims/items/leggings_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_amethyst",
+        "layer1": "minecraft:trims/items/helmet_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer1": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:block/netherite_iron_block": {
+      "textures": {
+        "all": "advancednetherite:block/netherite_iron_block",
+        "east": "advancednetherite:block/netherite_iron_block",
+        "south": "advancednetherite:block/netherite_iron_block",
+        "north": "advancednetherite:block/netherite_iron_block",
+        "west": "advancednetherite:block/netherite_iron_block",
+        "particle": "advancednetherite:block/netherite_iron_block",
+        "up": "advancednetherite:block/netherite_iron_block",
+        "down": "advancednetherite:block/netherite_iron_block"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer1": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_amethyst",
+        "layer1": "minecraft:trims/items/helmet_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer1": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_lapis",
+        "layer1": "minecraft:trims/items/helmet_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_quartz",
+        "layer1": "minecraft:trims/items/helmet_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_emerald",
+        "layer1": "minecraft:trims/items/boots_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_quartz",
+        "layer1": "minecraft:trims/items/helmet_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_redstone",
+        "layer1": "minecraft:trims/items/boots_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_diamond",
+        "layer1": "minecraft:trims/items/boots_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_diamond",
+        "layer1": "minecraft:trims/items/helmet_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer1": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_resin",
+        "layer1": "minecraft:trims/items/leggings_trim_resin",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer1": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_diamond",
+        "layer1": "minecraft:trims/items/boots_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer1": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_gold",
+        "layer1": "minecraft:trims/items/helmet_trim_gold",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_iron",
+        "layer1": "minecraft:trims/items/boots_trim_iron",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_copper",
+        "layer1": "minecraft:trims/items/boots_trim_copper",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_gold",
+        "layer1": "minecraft:trims/items/chestplate_trim_gold",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer1": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer1": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_quartz",
+        "layer1": "minecraft:trims/items/boots_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_gold",
+        "layer1": "minecraft:trims/items/boots_trim_gold",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_resin",
+        "layer1": "minecraft:trims/items/helmet_trim_resin",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer1": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_gold",
+        "layer1": "minecraft:trims/items/helmet_trim_gold",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_diamond",
+        "layer1": "minecraft:trims/items/helmet_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer1": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_netherite",
+        "layer1": "minecraft:trims/items/boots_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_redstone",
+        "layer1": "minecraft:trims/items/helmet_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_redstone",
+        "layer1": "minecraft:trims/items/boots_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_netherite",
+        "layer1": "minecraft:trims/items/boots_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_resin",
+        "layer1": "minecraft:trims/items/leggings_trim_resin",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer1": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_lapis",
+        "layer1": "minecraft:trims/items/helmet_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer1": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_netherite",
+        "layer1": "minecraft:trims/items/leggings_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_netherite",
+        "layer1": "minecraft:trims/items/leggings_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_copper",
+        "layer1": "minecraft:trims/items/chestplate_trim_copper",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_pickaxe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_pickaxe",
+        "layer1": "advancednetherite:item/netherite_diamond_pickaxe"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_amethyst",
+        "layer1": "minecraft:trims/items/boots_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_diamond",
+        "layer1": "minecraft:trims/items/boots_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_redstone",
+        "layer1": "minecraft:trims/items/leggings_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer1": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_iron",
+        "layer1": "minecraft:trims/items/leggings_trim_iron",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_pickaxe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_pickaxe",
+        "layer1": "advancednetherite:item/netherite_emerald_pickaxe"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_emerald",
+        "layer1": "minecraft:trims/items/boots_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_resin",
+        "layer1": "minecraft:trims/items/chestplate_trim_resin",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_copper",
+        "layer1": "minecraft:trims/items/helmet_trim_copper",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_resin",
+        "layer1": "minecraft:trims/items/boots_trim_resin",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_resin",
+        "layer1": "minecraft:trims/items/boots_trim_resin",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_redstone",
+        "layer1": "minecraft:trims/items/leggings_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_redstone",
+        "layer1": "minecraft:trims/items/boots_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_iron",
+        "layer1": "minecraft:trims/items/helmet_trim_iron",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_diamond",
+        "layer1": "minecraft:trims/items/boots_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer1": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_iron",
+        "layer1": "minecraft:trims/items/leggings_trim_iron",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_quartz",
+        "layer1": "minecraft:trims/items/leggings_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer1": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_resin",
+        "layer1": "minecraft:trims/items/helmet_trim_resin",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_emerald",
+        "layer1": "minecraft:trims/items/leggings_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_netherite",
+        "layer1": "minecraft:trims/items/helmet_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_resin",
+        "layer1": "minecraft:trims/items/leggings_trim_resin",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_lapis",
+        "layer1": "minecraft:trims/items/boots_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:block/netherite_diamond_block": {
+      "textures": {
+        "all": "advancednetherite:block/netherite_diamond_block",
+        "east": "advancednetherite:block/netherite_diamond_block",
+        "south": "advancednetherite:block/netherite_diamond_block",
+        "north": "advancednetherite:block/netherite_diamond_block",
+        "west": "advancednetherite:block/netherite_diamond_block",
+        "particle": "advancednetherite:block/netherite_diamond_block",
+        "up": "advancednetherite:block/netherite_diamond_block",
+        "down": "advancednetherite:block/netherite_diamond_block"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_gold",
+        "layer1": "minecraft:trims/items/boots_trim_gold",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_gold",
+        "layer1": "minecraft:trims/items/leggings_trim_gold",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_iron",
+        "layer1": "minecraft:trims/items/helmet_trim_iron",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_gold_block": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_block",
+        "layer1": "advancednetherite:item/netherite_gold_block"
+      }
+    },
+    "advancednetherite:block/netherite_gold_block": {
+      "textures": {
+        "all": "advancednetherite:block/netherite_gold_block",
+        "east": "advancednetherite:block/netherite_gold_block",
+        "south": "advancednetherite:block/netherite_gold_block",
+        "north": "advancednetherite:block/netherite_gold_block",
+        "west": "advancednetherite:block/netherite_gold_block",
+        "particle": "advancednetherite:block/netherite_gold_block",
+        "up": "advancednetherite:block/netherite_gold_block",
+        "down": "advancednetherite:block/netherite_gold_block"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_copper",
+        "layer1": "minecraft:trims/items/chestplate_trim_copper",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer1": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_chestplate": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_chestplate",
+        "layer1": "advancednetherite:item/netherite_gold_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer1": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_gold",
+        "layer1": "minecraft:trims/items/leggings_trim_gold",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_resin_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_resin",
+        "layer1": "minecraft:trims/items/chestplate_trim_resin",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer1": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_redstone",
+        "layer1": "minecraft:trims/items/boots_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_copper",
+        "layer1": "minecraft:trims/items/chestplate_trim_copper",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_emerald",
+        "layer1": "minecraft:trims/items/helmet_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_block": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_block",
+        "layer1": "advancednetherite:item/netherite_diamond_block"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_redstone",
+        "layer1": "minecraft:trims/items/leggings_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_amethyst",
+        "layer1": "minecraft:trims/items/helmet_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_iron",
+        "layer1": "minecraft:trims/items/chestplate_trim_iron",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_lapis",
+        "layer1": "minecraft:trims/items/boots_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_netherite",
+        "layer1": "minecraft:trims/items/helmet_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_gold",
+        "layer1": "minecraft:trims/items/boots_trim_gold",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_redstone",
+        "layer1": "minecraft:trims/items/leggings_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer1": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_copper",
+        "layer1": "minecraft:trims/items/chestplate_trim_copper",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_leggings_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_lapis",
+        "layer1": "minecraft:trims/items/leggings_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_gold_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_redstone",
+        "layer1": "minecraft:trims/items/helmet_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_boots_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_boots",
+        "layer3": "minecraft:trims/items/boots_trim_emerald",
+        "layer1": "minecraft:trims/items/boots_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_emerald_boots"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer1": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_hoe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_hoe",
+        "layer1": "advancednetherite:item/netherite_gold_hoe"
+      }
+    },
+    "advancednetherite:item/netherite_gold_ingot": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_ingot",
+        "layer1": "advancednetherite:item/netherite_gold_ingot"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_copper",
+        "layer1": "minecraft:trims/items/boots_trim_copper",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_amethyst",
+        "layer1": "minecraft:trims/items/leggings_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_copper",
+        "layer1": "minecraft:trims/items/leggings_trim_copper",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_hoe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_hoe",
+        "layer1": "advancednetherite:item/netherite_diamond_hoe"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_emerald",
+        "layer1": "minecraft:trims/items/helmet_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_emerald_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_emerald",
+        "layer1": "minecraft:trims/items/leggings_trim_emerald",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_chestplate_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer1": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_emerald_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer1": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_lapis",
+        "layer1": "minecraft:trims/items/boots_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_iron",
+        "layer1": "minecraft:trims/items/boots_trim_iron",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_quartz",
+        "layer1": "minecraft:trims/items/leggings_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_shovel": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_shovel",
+        "layer1": "advancednetherite:item/netherite_iron_shovel"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_copper",
+        "layer1": "minecraft:trims/items/helmet_trim_copper",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_shovel": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_shovel",
+        "layer1": "advancednetherite:item/netherite_emerald_shovel"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer1": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_boots_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_boots",
+        "layer3": "minecraft:trims/items/boots_trim_iron",
+        "layer1": "minecraft:trims/items/boots_trim_iron",
+        "layer2": "advancednetherite:item/netherite_diamond_boots"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_chestplate_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_iron",
+        "layer1": "minecraft:trims/items/chestplate_trim_iron",
+        "layer2": "advancednetherite:item/netherite_diamond_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_helmet_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_copper",
+        "layer1": "minecraft:trims/items/helmet_trim_copper",
+        "layer2": "advancednetherite:item/netherite_diamond_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_boots_quartz_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_boots",
+        "layer3": "minecraft:trims/items/boots_trim_quartz",
+        "layer1": "minecraft:trims/items/boots_trim_quartz",
+        "layer2": "advancednetherite:item/netherite_iron_boots"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_shovel": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_shovel",
+        "layer1": "advancednetherite:item/netherite_diamond_shovel"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_axe": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_axe",
+        "layer1": "advancednetherite:item/netherite_emerald_axe"
+      }
+    },
+    "advancednetherite:item/netherite_gold_boots_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_boots",
+        "layer3": "minecraft:trims/items/boots_trim_amethyst",
+        "layer1": "minecraft:trims/items/boots_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_gold_boots"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_copper",
+        "layer1": "minecraft:trims/items/helmet_trim_copper",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_helmet_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_iron",
+        "layer1": "minecraft:trims/items/helmet_trim_iron",
+        "layer2": "advancednetherite:item/netherite_iron_helmet"
+      }
+    },
+    "advancednetherite:block/netherite_emerald_block": {
+      "textures": {
+        "all": "advancednetherite:block/netherite_emerald_block",
+        "east": "advancednetherite:block/netherite_emerald_block",
+        "south": "advancednetherite:block/netherite_emerald_block",
+        "north": "advancednetherite:block/netherite_emerald_block",
+        "west": "advancednetherite:block/netherite_emerald_block",
+        "particle": "advancednetherite:block/netherite_emerald_block",
+        "up": "advancednetherite:block/netherite_emerald_block",
+        "down": "advancednetherite:block/netherite_emerald_block"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer1": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer1": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_diamond_leggings_copper_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_diamond_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_copper",
+        "layer1": "minecraft:trims/items/leggings_trim_copper",
+        "layer2": "advancednetherite:item/netherite_diamond_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_gold_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_gold",
+        "layer1": "minecraft:trims/items/helmet_trim_gold",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_gold_helmet_redstone_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_gold_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_redstone",
+        "layer1": "minecraft:trims/items/helmet_trim_redstone",
+        "layer2": "advancednetherite:item/netherite_gold_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_amethyst",
+        "layer1": "minecraft:trims/items/leggings_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_lapis_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_lapis",
+        "layer1": "minecraft:trims/items/leggings_trim_lapis",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_iron_chestplate_netherite_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer1": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer2": "advancednetherite:item/netherite_iron_chestplate"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_leggings_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_iron",
+        "layer1": "minecraft:trims/items/leggings_trim_iron",
+        "layer2": "advancednetherite:item/netherite_emerald_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_amethyst_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_amethyst",
+        "layer1": "minecraft:trims/items/helmet_trim_amethyst",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    },
+    "advancednetherite:item/netherite_iron_leggings_iron_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_iron_leggings",
+        "layer3": "minecraft:trims/items/leggings_trim_iron",
+        "layer1": "minecraft:trims/items/leggings_trim_iron",
+        "layer2": "advancednetherite:item/netherite_iron_leggings"
+      }
+    },
+    "advancednetherite:item/netherite_emerald_helmet_diamond_trim": {
+      "textures": {
+        "layer0": "advancednetherite:item/netherite_emerald_helmet",
+        "layer3": "minecraft:trims/items/helmet_trim_diamond",
+        "layer1": "minecraft:trims/items/helmet_trim_diamond",
+        "layer2": "advancednetherite:item/netherite_emerald_helmet"
+      }
+    }
+  }
+}
