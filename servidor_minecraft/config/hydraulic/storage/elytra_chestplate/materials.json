@@ -1,0 +1,592 @@
+{
+  "materials": {
+    "elytra_chestplate:item/elytra_chainmail_chestplate_copper_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_copper",
+        "layer1": "minecraft:trims/items/chestplate_trim_copper",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_emerald_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer1": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate_amethyst_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer1": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_resin_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_resin",
+        "layer5": "minecraft:trims/items/chestplate_trim_resin"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_emerald_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer1": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_iron_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_iron",
+        "layer1": "minecraft:trims/items/chestplate_trim_iron",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_redstone_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer1": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_copper_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_copper",
+        "layer1": "minecraft:trims/items/chestplate_trim_copper",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer1": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_resin_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_resin",
+        "layer1": "minecraft:trims/items/chestplate_trim_resin",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_quartz_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer1": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_gold_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_gold",
+        "layer1": "minecraft:trims/items/chestplate_trim_gold",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate_iron_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_iron",
+        "layer1": "minecraft:trims/items/chestplate_trim_iron",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_amethyst_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer1": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_diamond_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_diamond_darker",
+        "layer1": "minecraft:trims/items/chestplate_trim_diamond_darker",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_copper_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_copper",
+        "layer5": "minecraft:trims/items/chestplate_trim_copper"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_netherite_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer1": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_netherite_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer1": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_amethyst_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer1": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_amethyst_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer5": "minecraft:trims/items/chestplate_trim_amethyst"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_gold_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_gold",
+        "layer5": "minecraft:trims/items/chestplate_trim_gold"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate_resin_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_resin",
+        "layer1": "minecraft:trims/items/chestplate_trim_resin",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_emerald_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer1": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_amethyst_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer1": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_gold_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_gold",
+        "layer1": "minecraft:trims/items/chestplate_trim_gold",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_iron_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_iron_darker",
+        "layer1": "minecraft:trims/items/chestplate_trim_iron_darker",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_quartz_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer1": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_lapis_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer1": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_quartz_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer1": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_quartz_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer5": "minecraft:trims/items/chestplate_trim_quartz"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_diamond_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer1": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_resin_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_resin",
+        "layer1": "minecraft:trims/items/chestplate_trim_resin",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_iron_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_iron",
+        "layer1": "minecraft:trims/items/chestplate_trim_iron",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_emerald_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer5": "minecraft:trims/items/chestplate_trim_emerald"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_copper_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_copper",
+        "layer1": "minecraft:trims/items/chestplate_trim_copper",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_lapis_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer1": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_netherite_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer1": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_redstone_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer1": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate_emerald_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer1": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_iron_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_iron",
+        "layer5": "minecraft:trims/items/chestplate_trim_iron"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer1": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_quartz_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer1": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "elytra_chestplate:item/elytra_leather_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_redstone_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer5": "minecraft:trims/items/chestplate_trim_redstone"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_redstone_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer1": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer1": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_amethyst_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer1": "minecraft:trims/items/chestplate_trim_amethyst",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_lapis_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer5": "minecraft:trims/items/chestplate_trim_lapis"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_resin_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_resin",
+        "layer1": "minecraft:trims/items/chestplate_trim_resin",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_gold_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_gold",
+        "layer1": "minecraft:trims/items/chestplate_trim_gold",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_netherite_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer5": "minecraft:trims/items/chestplate_trim_netherite"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate_quartz_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer1": "minecraft:trims/items/chestplate_trim_quartz",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate_gold_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_gold",
+        "layer1": "minecraft:trims/items/chestplate_trim_gold",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_lapis_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer1": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer1": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_iron_chestplate_emerald_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_iron_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer1": "minecraft:trims/items/chestplate_trim_emerald",
+        "layer2": "elytra_chestplate:item/elytra_iron_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_diamond_chestplate_copper_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_diamond_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_copper",
+        "layer1": "minecraft:trims/items/chestplate_trim_copper",
+        "layer2": "elytra_chestplate:item/elytra_diamond_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_resin_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_resin",
+        "layer1": "minecraft:trims/items/chestplate_trim_resin",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_diamond_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer1": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_redstone_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer1": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_copper_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_copper",
+        "layer1": "minecraft:trims/items/chestplate_trim_copper",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_gold_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_gold_darker",
+        "layer1": "minecraft:trims/items/chestplate_trim_gold_darker",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate_lapis_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer1": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_lapis_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer1": "minecraft:trims/items/chestplate_trim_lapis",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate_diamond_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer1": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer1": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_netherite_chestplate_netherite_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_netherite_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_netherite_darker",
+        "layer1": "minecraft:trims/items/chestplate_trim_netherite_darker",
+        "layer2": "elytra_chestplate:item/elytra_netherite_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate_redstone_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer1": "minecraft:trims/items/chestplate_trim_redstone",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_chainmail_chestplate_netherite_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_chainmail_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer1": "minecraft:trims/items/chestplate_trim_netherite",
+        "layer2": "elytra_chestplate:item/elytra_chainmail_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_iron_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_iron",
+        "layer1": "minecraft:trims/items/chestplate_trim_iron",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    },
+    "elytra_chestplate:item/elytra_leather_chestplate_diamond_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer3": "elytra_chestplate:item/elytra_leather_chestplate",
+        "layer4": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer1": "elytra_chestplate:item/elytra_leather_chestplate_overlay",
+        "layer2": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer5": "minecraft:trims/items/chestplate_trim_diamond"
+      }
+    },
+    "elytra_chestplate:item/elytra_golden_chestplate_diamond_trim": {
+      "textures": {
+        "layer0": "elytra_chestplate:item/elytra_golden_chestplate",
+        "layer3": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer1": "minecraft:trims/items/chestplate_trim_diamond",
+        "layer2": "elytra_chestplate:item/elytra_golden_chestplate"
+      }
+    }
+  }
+}

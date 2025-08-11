@@ -1,7 +1,7 @@
-[21:27:24] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[21:27:24] [ForkJoinPool-1-worker-3/WARN]: Mod com_github_geysermc_unnamed-creative_creative-seriffd92408186d4d uses the version 817fa982c4 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '817fa982c4'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:27:24] [ForkJoinPool-1-worker-3/WARN]: Mod com_github_geysermc_unnamed-creative_creative-api uses the version 817fa982c4 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '817fa982c4'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:27:25] [main/INFO]: Loading 108 mods:
+[14:57:29] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[14:57:31] [ForkJoinPool-1-worker-3/WARN]: Mod com_github_geysermc_unnamed-creative_creative-api uses the version 817fa982c4 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '817fa982c4'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[14:57:31] [ForkJoinPool-1-worker-3/WARN]: Mod com_github_geysermc_unnamed-creative_creative-seriffd92408186d4d uses the version 817fa982c4 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '817fa982c4'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[14:57:32] [main/INFO]: Loading 106 mods:
 	- advancednetherite 2.3.0-1.21.8
 	- fabric-api 0.131.0+1.21.8
 	   |-- fabric-api-base 0.5.0+cd8c0daa2c
@@ -117,80 +117,341 @@
 	   \-- org_jetbrains_annotations 24.0.1
 	- java 21
 	- minecraft 1.21.8
-	- stellarity 4.2.3
-	- terralith 2.5.11
 	- viabackwards 5.4.2
 	- viafabric 0.4.19+118-main
 	   |-- cotton-client-commands 1.1.0+1.15.2
 	   \-- viafabric-mc1218 0.4.19+118-main
 	- viaversion 5.4.2
-[21:27:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/test/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:27:25] [main/INFO]: Compatibility level set to JAVA_21
-[21:27:25] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:27:32] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[21:27:33] [main/WARN]: en_ is not a supported Floodgate language.
-[21:27:33] [main/INFO]: Loading extensions...
-[21:27:33] [main/INFO]: Loaded 0 extension(s)
-[21:27:34] [Via-Mappingloader-0/INFO]: Loading block connection mappings ...
-[21:27:35] [Via-Mappingloader-0/INFO]: Using FastUtil Long2ObjectOpenHashMap for block connections
-[21:27:35] [main/INFO]: Loading translations...
-[21:27:35] [main/INFO]: Registering protocols...
-[21:27:35] [main/INFO]: ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[21:27:35] [ViaFabric-2/INFO]: Finished mapping loading, shutting down loader executor.
-[21:27:35] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:27:38] [main/INFO]: Loaded 1480 recipes
-[21:27:38] [main/INFO]: Loaded 1730 advancements
-[21:27:39] [main/INFO]: Applied 0 biome modifications to 0 of 192 new biomes in 1.939 ms
-[21:27:40] [Server thread/ERROR]: Encountered an unexpected exception
-java.util.ServiceConfigurationError: org.geysermc.hydraulic.pack.PackModule: org.geysermc.hydraulic.item.ItemPackModule Unable to get public no-arg constructor
-	at java.base/java.util.ServiceLoader.fail(ServiceLoader.java:586) ~[?:?]
-	at java.base/java.util.ServiceLoader.getConstructor(ServiceLoader.java:679) ~[?:?]
-	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1240) ~[?:?]
-	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273) ~[?:?]
-	at java.base/java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309) ~[?:?]
-	at java.base/java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393) ~[?:?]
-	at knot/org.geysermc.hydraulic.pack.PackManager.initialize(PackManager.java:132) ~[hydraulic-fabric.jar:?]
-	at knot/org.geysermc.hydraulic.HydraulicImpl.onServerStarting(HydraulicImpl.java:53) ~[hydraulic-fabric.jar:?]
-	at knot/net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$0(ServerLifecycleEvents.java:38) ~[fabric-lifecycle-events-v1-2.6.4+db4dfd852c-f17cf17b59df5ffd.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.handler$zen000$fabric-lifecycle-events-v1$beforeSetupServer(MinecraftServer.java:2697) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:672) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+[14:57:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/test/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:57:33] [main/INFO]: Compatibility level set to JAVA_21
+[14:57:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:57:41] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[14:57:42] [main/WARN]: en_ is not a supported Floodgate language.
+[14:57:43] [main/INFO]: Loading extensions...
+[14:57:43] [main/INFO]: Loaded 0 extension(s)
+[14:57:45] [Via-Mappingloader-0/INFO]: Loading block connection mappings ...
+[14:57:45] [Via-Mappingloader-0/INFO]: Using FastUtil Long2ObjectOpenHashMap for block connections
+[14:57:45] [main/INFO]: Loading translations...
+[14:57:45] [main/INFO]: Registering protocols...
+[14:57:45] [main/INFO]: ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[14:57:45] [ViaFabric-2/INFO]: Finished mapping loading, shutting down loader executor.
+[14:57:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:57:49] [main/INFO]: Loaded 1462 recipes
+[14:57:49] [main/INFO]: Loaded 1579 advancements
+[14:57:49] [main/INFO]: Applied 0 biome modifications to 0 of 160 new biomes in 2.174 ms
+[14:57:50] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[14:57:50] [Server thread/INFO]: Loading properties
+[14:57:50] [Server thread/INFO]: Default game type: SURVIVAL
+[14:57:50] [Server thread/INFO]: Generating keypair
+[14:57:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:57:50] [Server thread/INFO]: Using epoll channel type
+[14:57:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:57:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:57:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:57:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:57:50] [Server thread/INFO]: Preparing level "world"
+[14:57:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:57:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:57:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:57:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:57:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:57:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:57:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:57:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:57:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:57:55] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:57:55] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[14:57:56] [Server thread/INFO]: Time elapsed: 4834 ms
+[14:57:56] [Server thread/INFO]: Done (5.307s)! For help, type "help"
+[14:57:56] [Server thread/INFO]: Took 21ms to boot Floodgate
+[14:57:56] [Server thread/INFO]: ******************************************
+[14:57:56] [Server thread/INFO]: 
+[14:57:56] [Server thread/INFO]: Loading Geyser version 2.8.3-SNAPSHOT (git-DEV-28b9a75)
+[14:57:56] [Server thread/INFO]: 
+[14:57:56] [Server thread/INFO]: You are running a development build of Geyser! Please report any bugs you find on our Discord server: https://discord.gg/geysermc.
+[14:57:56] [Server thread/INFO]: 
+[14:57:56] [Server thread/INFO]: ******************************************
+[14:57:56] [Server thread/INFO]: Registered 4 non-vanilla block overrides.
+[14:57:56] [Server thread/INFO]: Registered 4 custom blocks.
+[14:57:58] [Server thread/INFO]: Registered 44 custom items
+[14:57:58] [Server thread/INFO]: Registering already converted pack for mod viafabric
+[14:57:59] [Server thread/INFO]: Registering already converted pack for mod advancednetherite
+[14:57:59] [Server thread/WARN]: The resource pack advancednetherite.mcpack has a file in it that meets or exceeds 80 characters in its path (textures/entity/advancednetherite/equipment/humanoid_leggings/netherite_gold.png, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[14:57:59] [Server thread/WARN]: The resource pack advancednetherite.mcpack has a file in it that meets or exceeds 80 characters in its path (textures/entity/advancednetherite/equipment/humanoid_leggings/netherite_emerald.png, 83 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[14:57:59] [Server thread/WARN]: The resource pack advancednetherite.mcpack has a file in it that meets or exceeds 80 characters in its path (textures/entity/advancednetherite/equipment/humanoid_leggings/netherite_diamond.png, 83 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[14:57:59] [Server thread/WARN]: The resource pack advancednetherite.mcpack has a file in it that meets or exceeds 80 characters in its path (textures/entity/advancednetherite/equipment/humanoid_leggings/netherite_iron.png, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[14:57:59] [Server thread/INFO]: Registering already converted pack for mod hydraulic
+[14:57:59] [Server thread/INFO]: Found 11 packs to convert!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod viabackwards
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:57:59] [Hydraulic Conversion Thread #0/ERROR]: Error converting pack!
+java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 10
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349) ~[?:?]
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4865) ~[?:?]
+	at java.base/java.lang.String.substring(String.java:2834) ~[?:?]
+	at knot/org.geysermc.pack.converter.converter.texture.TextureConverter.convert(TextureConverter.java:99) ~[org_geysermc_pack_converter-3.4.1-SNAPSHOT-b2bade9908c19a3.jar:?]
+	at knot/org.geysermc.pack.converter.PackConverter.lambda$convert$2(PackConverter.java:294) ~[org_geysermc_pack_converter-3.4.1-SNAPSHOT-b2bade9908c19a3.jar:?]
+	at knot/org.geysermc.pack.converter.util.ZipUtils.openFileSystem(ZipUtils.java:128) ~[org_geysermc_pack_converter-3.4.1-SNAPSHOT-b2bade9908c19a3.jar:?]
+	at knot/org.geysermc.pack.converter.PackConverter.convert(PackConverter.java:275) ~[org_geysermc_pack_converter-3.4.1-SNAPSHOT-b2bade9908c19a3.jar:?]
+	at knot/org.geysermc.hydraulic.pack.PackManager.createPack(PackManager.java:197) ~[hydraulic-fabric.jar:?]
+	at knot/org.geysermc.hydraulic.pack.PackListener.lambda$onLoadResourcePacks$2(PackListener.java:113) ~[hydraulic-fabric.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.NoClassDefFoundError: org/geysermc/geyser/api/item/custom/v2/CustomItemDefinition$Builder
-	at java.base/java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
-	at java.base/java.lang.Class.privateGetDeclaredConstructors(Class.java:3549) ~[?:?]
-	at java.base/java.lang.Class.getConstructor0(Class.java:3754) ~[?:?]
-	at java.base/java.lang.Class.getConstructor(Class.java:2442) ~[?:?]
-	at java.base/java.util.ServiceLoader$1.run(ServiceLoader.java:666) ~[?:?]
-	at java.base/java.util.ServiceLoader$1.run(ServiceLoader.java:663) ~[?:?]
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571) ~[?:?]
-	at java.base/java.util.ServiceLoader.getConstructor(ServiceLoader.java:674) ~[?:?]
-	... 11 more
-Caused by: java.lang.ClassNotFoundException: org.geysermc.geyser.api.item.custom.v2.CustomItemDefinition$Builder
-	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226) ~[fabric-loader-0.16.14.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.14.jar:?]
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at java.base/java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
-	at java.base/java.lang.Class.privateGetDeclaredConstructors(Class.java:3549) ~[?:?]
-	at java.base/java.lang.Class.getConstructor0(Class.java:3754) ~[?:?]
-	at java.base/java.lang.Class.getConstructor(Class.java:2442) ~[?:?]
-	at java.base/java.util.ServiceLoader$1.run(ServiceLoader.java:666) ~[?:?]
-	at java.base/java.util.ServiceLoader$1.run(ServiceLoader.java:663) ~[?:?]
-	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571) ~[?:?]
-	at java.base/java.util.ServiceLoader.getConstructor(ServiceLoader.java:674) ~[?:?]
-	... 11 more
-[21:27:40] [Server thread/ERROR]: This crash report has been saved to: /workspaces/test/servidor_minecraft/crash-reports/crash-2025-08-10_21.27.40-server.txt
-[21:27:40] [Server thread/INFO]: Geyser shutdown successfully.
-[21:27:40] [Server thread/INFO]: Stopping server
-[21:27:40] [Server thread/INFO]: Saving worlds
-[21:27:40] [Server thread/ERROR]: Exception stopping the server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_3218.method_8621()" because "$$5" is null
-	at knot/net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:569) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:628) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3176.method_3782(class_3176.java:543) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:748) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+[14:57:59] [Hydraulic Conversion Thread #0/WARN]: Pack conversion completed with 1 errors!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod viafabric-mc1144
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Written textures!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Texture conversion complete!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Pack conversion completed successfully!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod cotton-client-commands
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Written textures!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Texture conversion complete!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Pack conversion completed successfully!
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:57:59] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod viafabric-mc1206
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Written textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Texture conversion complete!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Pack conversion completed successfully!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod viaversion
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:58:00] [Hydraulic Conversion Thread #0/ERROR]: Error converting pack!
+java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 10
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckFromToIndex(Preconditions.java:112) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkFromToIndex(Preconditions.java:349) ~[?:?]
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4865) ~[?:?]
+	at java.base/java.lang.String.substring(String.java:2834) ~[?:?]
+	at knot/org.geysermc.pack.converter.converter.texture.TextureConverter.convert(TextureConverter.java:99) ~[org_geysermc_pack_converter-3.4.1-SNAPSHOT-b2bade9908c19a3.jar:?]
+	at knot/org.geysermc.pack.converter.PackConverter.lambda$convert$2(PackConverter.java:294) ~[org_geysermc_pack_converter-3.4.1-SNAPSHOT-b2bade9908c19a3.jar:?]
+	at knot/org.geysermc.pack.converter.util.ZipUtils.openFileSystem(ZipUtils.java:128) ~[org_geysermc_pack_converter-3.4.1-SNAPSHOT-b2bade9908c19a3.jar:?]
+	at knot/org.geysermc.pack.converter.PackConverter.convert(PackConverter.java:275) ~[org_geysermc_pack_converter-3.4.1-SNAPSHOT-b2bade9908c19a3.jar:?]
+	at knot/org.geysermc.hydraulic.pack.PackManager.createPack(PackManager.java:197) ~[hydraulic-fabric.jar:?]
+	at knot/org.geysermc.hydraulic.pack.PackListener.lambda$onLoadResourcePacks$2(PackListener.java:113) ~[hydraulic-fabric.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:27:40] [Server Shutdown Thread/INFO]: ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[14:58:00] [Hydraulic Conversion Thread #0/WARN]: Pack conversion completed with 1 errors!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod viafabric-mc1218
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Written textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Texture conversion complete!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Pack conversion completed successfully!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod viafabric-mc1194
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Written textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Texture conversion complete!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Pack conversion completed successfully!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod viafabric-mc1171
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Written textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Texture conversion complete!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Pack conversion completed successfully!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod viafabric-mc1182
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Written textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Texture conversion complete!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Pack conversion completed successfully!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod viafabric-mc1152
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Written textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Texture conversion complete!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Pack conversion completed successfully!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Converting pack for mod viafabric-mc1165
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transforming textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Transformed textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Writing textures...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Written textures!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Texture conversion complete!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Pack conversion completed successfully!
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaging pack...
+[14:58:00] [Hydraulic Conversion Thread #0/INFO]: Packaged pack! Cleaning up...
+[14:58:00] [Server thread/INFO]: Converted 11 packs for mods in 1s
+[14:58:00] [GeyserServer-3-1/INFO]: Started Geyser on UDP port 19132
+[14:58:00] [Server thread/INFO]: Done (4.498s)! Run /geyser help for help!
+[14:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4605ms or 92 ticks behind
+[14:58:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:58:00] [Server thread/INFO]: u/home/codespace/.python/current/bin/python /workspaces/test/msx.py<--[HERE]
+[14:59:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:59:17] [GeyserServerChild-4-1/INFO]: Bedrock user with ip: /127.184.244.131 has disconnected for reason Bedrock client disconnected
+[14:59:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:59:31] [Server thread/INFO]: 11deop Brian23<--[HERE]
+[14:59:50] [Server thread/INFO]: [Not Secure] [Server] hola
+[15:00:16] [GeyserServerChild-4-2/INFO]: Player connected with username DeMiguer05
+[15:00:16] [localSession-7-1/INFO]: DeMiguer05 (logged in as: DeMiguer05) has connected to the Java server
+[15:00:17] [pool-6-thread-1/INFO]: Floodgate player who is logged in as .DeMiguer05 00000000-0000-0000-0009-01f05793e41b joined
+[15:00:17] [Server thread/INFO]: .DeMiguer05[/127.184.244.131:0] logged in with entity id 85 at (9.5, 73.0, 4.5)
+[15:00:17] [Server thread/INFO]: Floodgate player logged in as .DeMiguer05 joined (UUID: 00000000-0000-0000-0009-01f05793e41b)
+[15:00:17] [Server thread/INFO]: .DeMiguer05 joined the game
+[15:00:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1, y=67, z=-7} class_2338{x=1, y=67, z=-8}
+[15:01:19] [Server thread/INFO]: [Not Secure] <.DeMiguer05> naaaa
+[15:01:25] [Server thread/INFO]: [Not Secure] <.DeMiguer05> y el terralith?
+[15:02:35] [Server thread/INFO]: .DeMiguer05 has made the advancement [Stone Age]
+[15:02:42] [Server thread/INFO]: .DeMiguer05 was slain by Zombie
+[15:03:10] [GeyserServerChild-4-3/INFO]: Player connected with username Brian237466
+[15:03:10] [localSession-7-2/INFO]: Brian237466 (logged in as: Brian237466) has connected to the Java server
+[15:03:11] [pool-6-thread-2/INFO]: Floodgate player who is logged in as .Brian237466 00000000-0000-0000-0009-01fcee2ade82 joined
+[15:03:11] [Server thread/WARN]: Ignored advancement 'senti:register' in progress file ./world/advancements/00000000-0000-0000-0009-01fcee2ade82.json - it doesn't exist anymore?
+[15:03:11] [Server thread/WARN]: Ignored advancement 'backpacks:tree/root' in progress file ./world/advancements/00000000-0000-0000-0009-01fcee2ade82.json - it doesn't exist anymore?
+[15:03:11] [Server thread/WARN]: Ignored advancement 'grave_ketket:uniqueid' in progress file ./world/advancements/00000000-0000-0000-0009-01fcee2ade82.json - it doesn't exist anymore?
+[15:03:11] [Server thread/WARN]: Ignored advancement 'grave_ketket:graves_adv' in progress file ./world/advancements/00000000-0000-0000-0009-01fcee2ade82.json - it doesn't exist anymore?
+[15:03:11] [Server thread/WARN]: Ignored advancement 'ketkets:main' in progress file ./world/advancements/00000000-0000-0000-0009-01fcee2ade82.json - it doesn't exist anymore?
+[15:03:11] [Server thread/WARN]: Ignored advancement 'senti:tick' in progress file ./world/advancements/00000000-0000-0000-0009-01fcee2ade82.json - it doesn't exist anymore?
+[15:03:11] [Server thread/INFO]: .Brian237466[/127.168.255.190:0] logged in with entity id 1270 at (5.5, 68.0, -8.5)
+[15:03:11] [Server thread/INFO]: Floodgate player logged in as .Brian237466 joined (UUID: 00000000-0000-0000-0009-01fcee2ade82)
+[15:03:11] [Server thread/INFO]: .Brian237466 joined the game
+[15:03:59] [Server thread/INFO]: [Not Secure] <.DeMiguer05> no o tiene terralith
+[15:04:14] [Server thread/INFO]: [Not Secure] <.Brian237466> la generación empieza desde lejos
+[15:04:28] [Server thread/INFO]: [Not Secure] <.DeMiguer05> y aparece con cosas cuando mueres
+[15:04:29] [Server thread/INFO]: [Not Secure] <.Brian237466> solo que el spawn se quedo asi
+[15:04:36] [Server thread/INFO]: [Not Secure] <.DeMiguer05> hubieras cambiado el spaw
+[15:04:57] [Server thread/INFO]: [Not Secure] <.Brian237466> sigues con op cambialo 🙂
+[15:05:02] [Server thread/INFO]: [Not Secure] <.DeMiguer05> estas en la chamba?
+[15:05:07] [Server thread/INFO]: [Not Secure] <.Brian237466> si
+[15:05:12] [Server thread/INFO]: [Not Secure] <.DeMiguer05> tengo op?
+[15:05:26] [Server thread/INFO]: [Not Secure] <.Brian237466> ojala no me roben mis cuentas por meterlas aqui
+[15:05:49] [Server thread/INFO]: [Not Secure] <.DeMiguer05> desde donde estas jugando?
+[15:06:13] [Server thread/INFO]: [Not Secure] <.Brian237466> del celular de otro empleado :/
+[15:06:26] [Server thread/INFO]: [Not Secure] <.DeMiguer05> xddd
+[15:06:36] [Server thread/INFO]: .DeMiguer05 has made the advancement [Getting an Upgrade]
+[15:07:54] [Server thread/INFO]: [Not Secure] <.Brian237466> bueno me tengo que ir, que busquen mods buenos para meterlos
+[15:07:59] [Server thread/INFO]: [Not Secure] <.DeMiguer05> como tengo op voy y a aprovechar para hacerlos tp
+[15:08:07] [Server thread/INFO]: [Not Secure] <.Brian237466> si
+[15:08:08] [Server thread/INFO]: [Not Secure] <.DeMiguer05> cuando entren
+[15:08:13] [Server thread/INFO]: [Not Secure] <.DeMiguer05> cual es el comando
+[15:08:19] [Server thread/INFO]: [Not Secure] <.DeMiguer05> tipo /tpahere
+[15:08:25] [Server thread/INFO]: [Not Secure] <.DeMiguer05> pero el de Minecraft
+[15:08:47] [Server thread/INFO]: [Not Secure] <.Brian237466> ./tp usuario . DeMiguer05
+[15:08:55] [Server thread/INFO]: [Not Secure] <.Brian237466> por cierto
+[15:09:22] [Server thread/INFO]: [Not Secure] <.DeMiguer05> aja
+[15:09:48] [Server thread/INFO]: [Not Secure] <.Brian237466> también esta la opción de tener plugins y mods pero esta limitado a la 121.1 aunque se puede meter el happy ghast y otras cosas como mod asi tendríamos plugins
+[15:10:23] [Server thread/INFO]: [Not Secure] <.DeMiguer05> mmm
+[15:10:27] [Server thread/INFO]: [Not Secure] <.Brian237466> también el golem de cobre es compatible con la 121.1 y mas mods sirven ahi
+[15:10:32] [Server thread/INFO]: [Not Secure] <.DeMiguer05> no creo que quieran
+[15:10:43] [Server thread/INFO]: [Not Secure] <.Brian237466> s
+[15:10:50] [Server thread/INFO]: [Not Secure] <.DeMiguer05> bueno depsue les pregunto
+[15:11:08] [Server thread/INFO]: [.DeMiguer05: Teleported .Brian237466 to .DeMiguer05]
+[15:11:36] [Server thread/INFO]: [Not Secure] <.Brian237466> nose pero solo digo ya que asi si abria plugin de waywtones y demás cosas además que hay mas mods
+[15:11:59] [Server thread/INFO]: [Not Secure] <.DeMiguer05> bueno primero hay que preguntar
+[15:12:12] [GeyserServerChild-4-2/INFO]: DeMiguer05 has disconnected from the Java server because of Bedrock client disconnected
+[15:12:12] [Geyser Fabric connection thread-6-2/INFO]: Floodgate player logged in as .DeMiguer05 disconnected
+[15:12:12] [Server thread/INFO]: .DeMiguer05 lost connection: Disconnected
+[15:12:12] [Server thread/INFO]: .DeMiguer05 left the game
+[15:12:14] [Server thread/INFO]: [Not Secure] <.Brian237466> y todo lo que falta de la 1.21.8 se añade como mods
+[15:12:18] [GeyserServerChild-4-3/INFO]: Brian237466 has disconnected from the Java server because of Bedrock client disconnected
+[15:12:18] [Geyser Fabric connection thread-6-3/INFO]: Floodgate player logged in as .Brian237466 disconnected
+[15:12:18] [Server thread/INFO]: .Brian237466 lost connection: Disconnected
+[15:12:18] [Server thread/INFO]: .Brian237466 left the game
+[15:13:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:13:28] [GeyserServerChild-4-4/INFO]: Player connected with username DeMiguer05
+[15:13:28] [localSession-7-3/INFO]: DeMiguer05 (logged in as: DeMiguer05) has connected to the Java server
+[15:13:28] [pool-6-thread-3/INFO]: Floodgate player who is logged in as .DeMiguer05 00000000-0000-0000-0009-01f05793e41b joined
+[15:13:29] [Server thread/INFO]: .DeMiguer05[/127.184.244.131:0] logged in with entity id 3915 at (-252.45186, 65.0, 355.99753)
+[15:13:29] [Server thread/INFO]: Floodgate player logged in as .DeMiguer05 joined (UUID: 00000000-0000-0000-0009-01f05793e41b)
+[15:13:29] [Server thread/INFO]: .DeMiguer05 joined the game
+[15:13:33] [GeyserServerChild-4-4/INFO]: DeMiguer05 has disconnected from the Java server because of Bedrock client disconnected
+[15:13:33] [Geyser Fabric connection thread-6-4/INFO]: Floodgate player logged in as .DeMiguer05 disconnected
+[15:13:34] [Server thread/INFO]: .DeMiguer05 lost connection: Disconnected
+[15:13:34] [Server thread/INFO]: .DeMiguer05 left the game
+[15:13:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:13:51] [Server thread/INFO]: gamgamerulegamerule keepinvegamgaefuleamerule keepgamerileule keppinventory ppinventory false<--[HERE]
+[15:14:06] [Server thread/INFO]: Incorrect argument for command
+[15:14:06] [Server thread/INFO]: gamerule keepinvengamerule keppinventory ppinventory false<--[HERE]
+[15:14:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:14:12] [Server thread/INFO]: gamerule<--[HERE]
+[15:14:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:14:20] [Server thread/INFO]: gamerule<--[HERE]
+[15:14:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:14:36] [GeyserServerChild-4-5/INFO]: Player connected with username DeMiguer05
+[15:14:36] [localSession-7-4/INFO]: DeMiguer05 (logged in as: DeMiguer05) has connected to the Java server
+[15:14:36] [pool-6-thread-4/INFO]: Floodgate player who is logged in as .DeMiguer05 00000000-0000-0000-0009-01f05793e41b joined
+[15:14:36] [Server thread/INFO]: .DeMiguer05[/127.184.244.131:0] logged in with entity id 4280 at (-252.45186, 65.0, 355.99753)
+[15:14:36] [Server thread/INFO]: Floodgate player logged in as .DeMiguer05 joined (UUID: 00000000-0000-0000-0009-01f05793e41b)
+[15:14:36] [Server thread/INFO]: .DeMiguer05 joined the game
+[15:15:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-281, y=67, z=414}
+[15:15:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-303, y=64, z=430} class_2338{x=-303, y=65, z=431}
+[15:15:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-304, y=64, z=434} class_2338{x=-297, y=65, z=431}
+[15:17:05] [Server thread/INFO]: .DeMiguer05 has made the advancement [Sweet Dreams]
+[15:17:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@117ad4d3[id=bfb5a4cf-c2c3-3564-bd0c-28671e01c269,name=santido12345gre,properties={}] lost connection: This server requires Fabric Loader and Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+advancednetherite
+
+
+Contact the server's administrator for more information!
+[15:17:53] [Server thread/WARN]: handleDisconnection() called twice
+[15:20:27] [GeyserServerChild-4-6/INFO]: Bedrock user with ip: /127.67.185.80 has disconnected for reason Please log into Xbox to join this server.
+[15:20:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@11c00e37[id=bfb5a4cf-c2c3-3564-bd0c-28671e01c269,name=santido12345gre,properties={}] lost connection: This server requires Fabric Loader and Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+advancednetherite
+
+
+Contact the server's administrator for more information!
+[15:20:37] [Server thread/WARN]: handleDisconnection() called twice
+[15:20:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-355, y=66, z=475} class_2338{x=-354, y=66, z=475}
+[15:21:13] [GeyserServerChild-4-7/INFO]: Bedrock user with ip: /127.67.185.80 has disconnected for reason Please log into Xbox to join this server.
+[15:23:46] [GeyserServerChild-4-5/INFO]: DeMiguer05 has disconnected from the Java server because of Bedrock client disconnected
+[15:23:46] [Geyser Fabric connection thread-6-5/INFO]: Floodgate player logged in as .DeMiguer05 disconnected
+[15:23:46] [Server thread/INFO]: .DeMiguer05 lost connection: Disconnected
+[15:23:46] [Server thread/INFO]: .DeMiguer05 left the game
+[15:24:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:26:33] [GeyserServerChild-4-8/INFO]: Player connected with username DeMiguer05
+[15:26:33] [localSession-7-5/INFO]: DeMiguer05 (logged in as: DeMiguer05) has connected to the Java server
+[15:26:33] [pool-6-thread-5/INFO]: Floodgate player who is logged in as .DeMiguer05 00000000-0000-0000-0009-01f05793e41b joined
+[15:26:33] [Server thread/INFO]: .DeMiguer05[/127.184.244.131:0] logged in with entity id 6648 at (-363.1069, 69.0, 530.09186)
+[15:26:33] [Server thread/INFO]: Floodgate player logged in as .DeMiguer05 joined (UUID: 00000000-0000-0000-0009-01f05793e41b)
+[15:26:33] [Server thread/INFO]: .DeMiguer05 joined the game

@@ -1,0 +1,25 @@
+{
+  "materials": {
+    "terraform:block/small_log": {
+      "textures": {}
+    },
+    "terraform:block/quarter_log": {
+      "textures": {}
+    },
+    "terraform:block/small_log_leaves": {
+      "textures": {}
+    },
+    "terraform:block/small_log_branch": {
+      "textures": {}
+    },
+    "terraform:item/small_log": {
+      "textures": {}
+    },
+    "terraform:block/small_log_leaves_cutout": {
+      "textures": {}
+    },
+    "terraform:block/pillar_leaves": {
+      "textures": {}
+    }
+  }
+}

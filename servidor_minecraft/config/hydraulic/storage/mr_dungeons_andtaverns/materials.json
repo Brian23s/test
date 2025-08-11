@@ -1,0 +1,144 @@
+{
+  "materials": {
+    "dnt:item/keys/ominous_toxic_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/ominous_toxic_key",
+        "layer1": "dnt:item/keys/ominous_toxic_key",
+        "layer2": "minecraft:item/ominous_trial_key"
+      }
+    },
+    "dnt:item/keys/creeper_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/creeper_key",
+        "layer1": "dnt:item/keys/creeper_key",
+        "layer2": "minecraft:item/trial_key"
+      }
+    },
+    "dnt:item/keys/citadel_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/citadel_key",
+        "layer1": "dnt:item/keys/citadel_key",
+        "layer2": "minecraft:item/trial_key"
+      }
+    },
+    "dnt:item/keys/outstation_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/outstation_key",
+        "layer1": "dnt:item/keys/outstation_key",
+        "layer2": "minecraft:item/trial_key"
+      }
+    },
+    "minecraft:item/ominous_trial_key": {
+      "textures": {
+        "layer0": "minecraft:item/ominous_trial_key",
+        "layer1": "minecraft:item/ominous_trial_key"
+      }
+    },
+    "dnt:item/keys/nether_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/nether_key",
+        "layer1": "dnt:item/keys/nether_key",
+        "layer2": "minecraft:item/trial_key"
+      }
+    },
+    "dnt:item/chart": {
+      "textures": {
+        "layer0": "dnt:item/chart",
+        "layer3": "dnt:item/chart_ribbon",
+        "layer1": "dnt:item/chart_ribbon",
+        "layer2": "dnt:item/chart"
+      }
+    },
+    "dnt:item/keys/ominous_shrine_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/ominous_shrine_key",
+        "layer1": "dnt:item/keys/ominous_shrine_key",
+        "layer2": "minecraft:item/ominous_trial_key"
+      }
+    },
+    "dnt:item/keys/citadel_boss_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/citadel_boss_key",
+        "layer1": "dnt:item/keys/citadel_boss_key",
+        "layer2": "minecraft:item/ominous_trial_key"
+      }
+    },
+    "dnt:item/keys/cave_chamber_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/cave_chamber_key",
+        "layer1": "dnt:item/keys/cave_chamber_key",
+        "layer2": "minecraft:item/trial_key"
+      }
+    },
+    "dnt:item/folded_chart": {
+      "textures": {
+        "layer0": "dnt:item/folded_chart",
+        "layer3": "dnt:item/chart_ribbon",
+        "layer1": "dnt:item/chart_ribbon",
+        "layer2": "dnt:item/folded_chart"
+      }
+    },
+    "minecraft:item/trial_key": {
+      "textures": {
+        "layer0": "minecraft:item/trial_key",
+        "layer1": "minecraft:item/trial_key"
+      }
+    },
+    "dnt:item/keys/end_castle_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/end_castle_key",
+        "layer1": "dnt:item/keys/end_castle_key",
+        "layer2": "minecraft:item/trial_key"
+      }
+    },
+    "dnt:item/keys/toxic_boss_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/toxic_boss_key",
+        "layer1": "dnt:item/keys/toxic_boss_key",
+        "layer2": "minecraft:item/ominous_trial_key"
+      }
+    },
+    "dnt:item/keys/monument_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/monument_key",
+        "layer1": "dnt:item/keys/monument_key",
+        "layer2": "minecraft:item/trial_key"
+      }
+    },
+    "dnt:item/keys/end_ship_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/end_ship_key",
+        "layer1": "dnt:item/keys/end_ship_key",
+        "layer2": "minecraft:item/ominous_trial_key"
+      }
+    },
+    "dnt:item/keys/toxic_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/toxic_key",
+        "layer1": "dnt:item/keys/toxic_key",
+        "layer2": "minecraft:item/trial_key"
+      }
+    },
+    "dnt:item/keys/monument_boss_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/monument_boss_key",
+        "layer1": "dnt:item/keys/monument_boss_key",
+        "layer2": "minecraft:item/ominous_trial_key"
+      }
+    },
+    "dnt:item/keys/donjon_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/donjon_key",
+        "layer1": "dnt:item/keys/donjon_key",
+        "layer2": "minecraft:item/trial_key"
+      }
+    },
+    "dnt:item/keys/shrine_key": {
+      "textures": {
+        "layer0": "dnt:item/keys/shrine_key",
+        "layer1": "dnt:item/keys/shrine_key",
+        "layer2": "minecraft:item/trial_key"
+      }
+    }
+  }
+}

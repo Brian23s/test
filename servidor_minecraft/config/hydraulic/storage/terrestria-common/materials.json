@@ -1,0 +1,4074 @@
+{
+  "materials": {
+    "terrestria:item/sakura_chest_boat": {
+      "textures": {
+        "layer0": "terrestria:item/sakura_chest_boat",
+        "layer1": "terrestria:item/sakura_chest_boat"
+      }
+    },
+    "terrestria:block/rubber_pressure_plate_down": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_fence_gate_wall": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/sakura_door_top_left": {
+      "textures": {
+        "top": "terrestria:block/sakura_door_top",
+        "bottom": "terrestria:block/sakura_door_bottom",
+        "particle": "terrestria:block/sakura_door_top"
+      }
+    },
+    "terrestria:block/willow_door_top_right_open": {
+      "textures": {
+        "top": "terrestria:block/willow_door_top",
+        "bottom": "terrestria:block/willow_door_bottom",
+        "particle": "terrestria:block/willow_door_top"
+      }
+    },
+    "terrestria:block/japanese_maple_trapdoor_top": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_trapdoor",
+        "particle": "terrestria:block/japanese_maple_trapdoor"
+      }
+    },
+    "terrestria:block/stripped_hemlock_quarter_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_hemlock_log",
+        "end": "terrestria:block/stripped_hemlock_quarter_log_top",
+        "particle": "terrestria:block/stripped_hemlock_log",
+        "inside": "terrestria:block/stripped_hemlock_quarter_log"
+      }
+    },
+    "terrestria:block/redwood_door_top_right_open": {
+      "textures": {
+        "top": "terrestria:block/redwood_door_top",
+        "bottom": "terrestria:block/redwood_door_bottom",
+        "particle": "terrestria:block/redwood_door_top"
+      }
+    },
+    "terrestria:block/sakura_log_leaves_cutout": {
+      "textures": {
+        "leaves": "terrestria:block/sakura_leaves",
+        "particle": "terrestria:block/sakura_leaves"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_door_top_left": {
+      "textures": {
+        "top": "terrestria:block/rainbow_eucalyptus_door_top",
+        "bottom": "terrestria:block/rainbow_eucalyptus_door_bottom",
+        "particle": "terrestria:block/rainbow_eucalyptus_door_top"
+      }
+    },
+    "terrestria:block/stripped_rainbow_eucalyptus_wood": {
+      "textures": {
+        "side": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "east": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "south": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "north": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "west": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "end": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "particle": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "up": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "down": "terrestria:block/stripped_rainbow_eucalyptus_log"
+      }
+    },
+    "terrestria:block/rubber_door_top_right": {
+      "textures": {
+        "top": "terrestria:block/rubber_door_top",
+        "bottom": "terrestria:block/rubber_door_bottom",
+        "particle": "terrestria:block/rubber_door_top"
+      }
+    },
+    "terrestria:block/cypress_trapdoor_bottom": {
+      "textures": {
+        "texture": "terrestria:block/cypress_trapdoor",
+        "particle": "terrestria:block/cypress_trapdoor"
+      }
+    },
+    "terrestria:block/hemlock_fence_gate": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/stripped_rainbow_eucalyptus_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "east": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "south": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "north": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "west": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "end": "terrestria:block/stripped_rainbow_eucalyptus_log_top",
+        "particle": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "up": "terrestria:block/stripped_rainbow_eucalyptus_log_top",
+        "down": "terrestria:block/stripped_rainbow_eucalyptus_log_top"
+      }
+    },
+    "terrestria:block/saguaro_cactus_leaves_cutout": {
+      "textures": {
+        "leaves": "minecraft:block/oak_leaves",
+        "particle": "minecraft:block/oak_leaves"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_sapling": {
+      "textures": {
+        "cross": "terrestria:block/rainbow_eucalyptus_sapling",
+        "particle": "terrestria:block/rainbow_eucalyptus_sapling"
+      }
+    },
+    "terrestria:block/yucca_palm_planks": {
+      "textures": {
+        "all": "terrestria:block/yucca_palm_planks",
+        "east": "terrestria:block/yucca_palm_planks",
+        "south": "terrestria:block/yucca_palm_planks",
+        "north": "terrestria:block/yucca_palm_planks",
+        "west": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks",
+        "up": "terrestria:block/yucca_palm_planks",
+        "down": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:item/redwood_boat": {
+      "textures": {
+        "layer0": "terrestria:item/redwood_boat",
+        "layer1": "terrestria:item/redwood_boat"
+      }
+    },
+    "terrestria:block/sakura_trapdoor_top": {
+      "textures": {
+        "texture": "terrestria:block/sakura_trapdoor",
+        "particle": "terrestria:block/sakura_trapdoor"
+      }
+    },
+    "terrestria:block/sakura_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/sakura_planks",
+        "top": "terrestria:block/sakura_planks",
+        "bottom": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/hemlock_sapling": {
+      "textures": {
+        "cross": "terrestria:block/hemlock_sapling",
+        "particle": "terrestria:block/hemlock_sapling"
+      }
+    },
+    "terrestria:block/volcanic_rock_cobblestone_slab": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock_cobblestone",
+        "top": "terrestria:block/volcanic_rock_cobblestone",
+        "bottom": "terrestria:block/volcanic_rock_cobblestone",
+        "particle": "terrestria:block/volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/hemlock_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/hemlock_planks",
+        "top": "terrestria:block/hemlock_planks",
+        "bottom": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:item/willow_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/willow_sapling",
+        "layer1": "terrestria:block/willow_sapling"
+      }
+    },
+    "terrestria:block/rubber_fence_inventory": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/rubber_slab_top": {
+      "textures": {
+        "side": "terrestria:block/rubber_planks",
+        "top": "terrestria:block/rubber_planks",
+        "bottom": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/stripped_sakura_log_leaves_cutout": {
+      "textures": {
+        "leaves": "terrestria:block/sakura_leaves",
+        "particle": "terrestria:block/sakura_leaves"
+      }
+    },
+    "terrestria:block/hemlock_trapdoor_top": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_trapdoor",
+        "particle": "terrestria:block/hemlock_trapdoor"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_button_inventory": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/cypress_sign": {
+      "textures": {
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:item/japanese_maple_shrub_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/japanese_maple_shrub_sapling",
+        "layer1": "terrestria:block/japanese_maple_shrub_sapling"
+      }
+    },
+    "terrestria:block/volcanic_rock_button_inventory": {
+      "textures": {
+        "texture": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/japanese_maple_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/japanese_maple_planks",
+        "top": "terrestria:block/japanese_maple_planks",
+        "bottom": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/hemlock_pressure_plate_down": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_door_bottom_right_open": {
+      "textures": {
+        "top": "terrestria:block/japanese_maple_door_top",
+        "bottom": "terrestria:block/japanese_maple_door_bottom",
+        "particle": "terrestria:block/japanese_maple_door_bottom"
+      }
+    },
+    "terrestria:block/sakura_slab": {
+      "textures": {
+        "side": "terrestria:block/sakura_planks",
+        "top": "terrestria:block/sakura_planks",
+        "bottom": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/chiseled_volcanic_rock_bricks": {
+      "textures": {
+        "all": "terrestria:block/chiseled_volcanic_rock_bricks",
+        "east": "terrestria:block/chiseled_volcanic_rock_bricks",
+        "south": "terrestria:block/chiseled_volcanic_rock_bricks",
+        "north": "terrestria:block/chiseled_volcanic_rock_bricks",
+        "west": "terrestria:block/chiseled_volcanic_rock_bricks",
+        "particle": "terrestria:block/chiseled_volcanic_rock_bricks",
+        "up": "terrestria:block/chiseled_volcanic_rock_bricks",
+        "down": "terrestria:block/chiseled_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_door_top_right_open": {
+      "textures": {
+        "top": "terrestria:block/rainbow_eucalyptus_door_top",
+        "bottom": "terrestria:block/rainbow_eucalyptus_door_bottom",
+        "particle": "terrestria:block/rainbow_eucalyptus_door_top"
+      }
+    },
+    "terrestria:block/stripped_yucca_palm_log_leaves": {
+      "textures": {
+        "leaves": "terrestria:block/yucca_palm_leaves",
+        "particle": "terrestria:block/yucca_palm_leaves"
+      }
+    },
+    "terrestria:block/yucca_palm_trapdoor_bottom": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_trapdoor",
+        "particle": "terrestria:block/yucca_palm_trapdoor"
+      }
+    },
+    "terrestria:block/potted_jungle_palm_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/jungle_palm_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:item/japanese_maple_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/japanese_maple_sapling",
+        "layer1": "terrestria:block/japanese_maple_sapling"
+      }
+    },
+    "terrestria:block/cracked_volcanic_rock_bricks": {
+      "textures": {
+        "all": "terrestria:block/cracked_volcanic_rock_bricks",
+        "east": "terrestria:block/cracked_volcanic_rock_bricks",
+        "south": "terrestria:block/cracked_volcanic_rock_bricks",
+        "north": "terrestria:block/cracked_volcanic_rock_bricks",
+        "west": "terrestria:block/cracked_volcanic_rock_bricks",
+        "particle": "terrestria:block/cracked_volcanic_rock_bricks",
+        "up": "terrestria:block/cracked_volcanic_rock_bricks",
+        "down": "terrestria:block/cracked_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/hemlock_fence_post": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/willow_fence_inventory": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/rubber_fence_gate": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/volcanic_rock_pressure_plate_down": {
+      "textures": {
+        "texture": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/volcanic_rock_cobblestone": {
+      "textures": {
+        "all": "terrestria:block/volcanic_rock_cobblestone",
+        "east": "terrestria:block/volcanic_rock_cobblestone",
+        "south": "terrestria:block/volcanic_rock_cobblestone",
+        "north": "terrestria:block/volcanic_rock_cobblestone",
+        "west": "terrestria:block/volcanic_rock_cobblestone",
+        "particle": "terrestria:block/volcanic_rock_cobblestone",
+        "up": "terrestria:block/volcanic_rock_cobblestone",
+        "down": "terrestria:block/volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/willow_leaves": {
+      "textures": {
+        "side": "terrestria:block/willow_leaves",
+        "east": "terrestria:block/willow_leaves",
+        "south": "terrestria:block/willow_leaves",
+        "north": "terrestria:block/willow_leaves",
+        "west": "terrestria:block/willow_leaves",
+        "end": "terrestria:block/willow_leaves_top",
+        "particle": "terrestria:block/willow_leaves",
+        "up": "terrestria:block/willow_leaves_top",
+        "down": "terrestria:block/willow_leaves_top"
+      }
+    },
+    "terrestria:block/volcanic_rock_wall_side": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock",
+        "wall": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/hemlock_planks": {
+      "textures": {
+        "all": "terrestria:block/hemlock_planks",
+        "east": "terrestria:block/hemlock_planks",
+        "south": "terrestria:block/hemlock_planks",
+        "north": "terrestria:block/hemlock_planks",
+        "west": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks",
+        "up": "terrestria:block/hemlock_planks",
+        "down": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/cattail": {
+      "textures": {
+        "texture": "terrestria:block/cattail",
+        "particle": "terrestria:block/cattail"
+      }
+    },
+    "terrestria:block/yucca_palm_sign": {
+      "textures": {
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_button": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:item/japanese_maple_door": {
+      "textures": {
+        "layer0": "terrestria:item/japanese_maple_door",
+        "layer1": "terrestria:item/japanese_maple_door"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_cobblestone": {
+      "textures": {
+        "all": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "east": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "south": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "north": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "west": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "particle": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "up": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "down": "terrestria:block/mossy_volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock_wall_side": {
+      "textures": {
+        "particle": "terrestria:block/smooth_volcanic_rock",
+        "wall": "terrestria:block/smooth_volcanic_rock"
+      }
+    },
+    "terrestria:item/cypress_sign": {
+      "textures": {
+        "layer0": "terrestria:item/cypress_sign",
+        "layer1": "terrestria:item/cypress_sign"
+      }
+    },
+    "terrestria:block/cypress_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/cypress_planks",
+        "top": "terrestria:block/cypress_planks",
+        "bottom": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/rubber_sapling": {
+      "textures": {
+        "cross": "terrestria:block/rubber_sapling",
+        "particle": "terrestria:block/rubber_sapling"
+      }
+    },
+    "terrestria:block/cypress_door_bottom_right_open": {
+      "textures": {
+        "top": "terrestria:block/cypress_door_top",
+        "bottom": "terrestria:block/cypress_door_bottom",
+        "particle": "terrestria:block/cypress_door_bottom"
+      }
+    },
+    "terrestria:block/potted_tiny_cactus": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/tiny_cactus",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/stripped_japanese_maple_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_japanese_maple_log",
+        "east": "terrestria:block/stripped_japanese_maple_log",
+        "south": "terrestria:block/stripped_japanese_maple_log",
+        "north": "terrestria:block/stripped_japanese_maple_log",
+        "west": "terrestria:block/stripped_japanese_maple_log",
+        "end": "terrestria:block/stripped_japanese_maple_log_top",
+        "particle": "terrestria:block/stripped_japanese_maple_log",
+        "up": "terrestria:block/stripped_japanese_maple_log_top",
+        "down": "terrestria:block/stripped_japanese_maple_log_top"
+      }
+    },
+    "terrestria:block/redwood_hanging_sign": {
+      "textures": {
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_brick_wall_post": {
+      "textures": {
+        "particle": "terrestria:block/mossy_volcanic_rock_bricks",
+        "wall": "terrestria:block/mossy_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/rubber_pressure_plate": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_brick_slab_top": {
+      "textures": {
+        "side": "terrestria:block/mossy_volcanic_rock_bricks",
+        "top": "terrestria:block/mossy_volcanic_rock_bricks",
+        "bottom": "terrestria:block/mossy_volcanic_rock_bricks",
+        "particle": "terrestria:block/mossy_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/japanese_maple_stairs": {
+      "textures": {
+        "side": "terrestria:block/japanese_maple_planks",
+        "top": "terrestria:block/japanese_maple_planks",
+        "bottom": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/rubber_button_pressed": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_fence_gate": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/willow_door_bottom_right_open": {
+      "textures": {
+        "top": "terrestria:block/willow_door_top",
+        "bottom": "terrestria:block/willow_door_bottom",
+        "particle": "terrestria:block/willow_door_bottom"
+      }
+    },
+    "terrestria:block/hemlock_quarter_log": {
+      "textures": {
+        "side": "terrestria:block/hemlock_log",
+        "end": "terrestria:block/hemlock_quarter_log_top",
+        "particle": "terrestria:block/hemlock_log",
+        "inside": "terrestria:block/hemlock_quarter_log"
+      }
+    },
+    "terrestria:block/potted_japanese_maple_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/japanese_maple_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/yucca_palm_button_inventory": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/sakura_pressure_plate": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/rubber_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/rubber_planks",
+        "top": "terrestria:block/rubber_planks",
+        "bottom": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_brick_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/mossy_volcanic_rock_bricks",
+        "top": "terrestria:block/mossy_volcanic_rock_bricks",
+        "bottom": "terrestria:block/mossy_volcanic_rock_bricks",
+        "particle": "terrestria:block/mossy_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/sakura_door_bottom_right": {
+      "textures": {
+        "top": "terrestria:block/sakura_door_top",
+        "bottom": "terrestria:block/sakura_door_bottom",
+        "particle": "terrestria:block/sakura_door_bottom"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_button_pressed": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/volcanic_rock_wall_post": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock",
+        "wall": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/japanese_maple_fence_gate_open": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:item/sakura_boat": {
+      "textures": {
+        "layer0": "terrestria:item/sakura_boat",
+        "layer1": "terrestria:item/sakura_boat"
+      }
+    },
+    "terrestria:block/stripped_sakura_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_sakura_log",
+        "particle": "terrestria:block/stripped_sakura_log"
+      }
+    },
+    "terrestria:block/japanese_maple_button_inventory": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/redwood_trapdoor_open": {
+      "textures": {
+        "texture": "terrestria:block/redwood_trapdoor",
+        "particle": "terrestria:block/redwood_trapdoor"
+      }
+    },
+    "terrestria:block/volcanic_rock": {
+      "textures": {
+        "all": "terrestria:block/volcanic_rock",
+        "east": "terrestria:block/volcanic_rock",
+        "south": "terrestria:block/volcanic_rock",
+        "north": "terrestria:block/volcanic_rock",
+        "west": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock",
+        "up": "terrestria:block/volcanic_rock",
+        "down": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/potted_dark_japanese_maple_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/dark_japanese_maple_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/rubber_wood": {
+      "textures": {
+        "side": "terrestria:block/rubber_log",
+        "east": "terrestria:block/rubber_log",
+        "south": "terrestria:block/rubber_log",
+        "north": "terrestria:block/rubber_log",
+        "west": "terrestria:block/rubber_log",
+        "end": "terrestria:block/rubber_log",
+        "particle": "terrestria:block/rubber_log",
+        "up": "terrestria:block/rubber_log",
+        "down": "terrestria:block/rubber_log"
+      }
+    },
+    "terrestria:block/rubber_trapdoor_open": {
+      "textures": {
+        "texture": "terrestria:block/rubber_trapdoor",
+        "particle": "terrestria:block/rubber_trapdoor"
+      }
+    },
+    "terrestria:block/volcanic_rock_cobblestone_wall_side": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock_cobblestone",
+        "wall": "terrestria:block/volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/cypress_button_inventory": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_sapling": {
+      "textures": {
+        "cross": "terrestria:block/japanese_maple_sapling",
+        "particle": "terrestria:block/japanese_maple_sapling"
+      }
+    },
+    "terrestria:block/rubber_button": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:item/saguaro_cactus_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/saguaro_cactus_sapling",
+        "layer1": "terrestria:block/saguaro_cactus_sapling"
+      }
+    },
+    "terrestria:block/cypress_hanging_sign": {
+      "textures": {
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:item/yucca_palm_door": {
+      "textures": {
+        "layer0": "terrestria:item/yucca_palm_door",
+        "layer1": "terrestria:item/yucca_palm_door"
+      }
+    },
+    "terrestria:item/redwood_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/redwood_sapling",
+        "layer1": "terrestria:block/redwood_sapling"
+      }
+    },
+    "terrestria:block/yucca_palm_door_bottom_left_open": {
+      "textures": {
+        "top": "terrestria:block/yucca_palm_door_top",
+        "bottom": "terrestria:block/yucca_palm_door_bottom",
+        "particle": "terrestria:block/yucca_palm_door_bottom"
+      }
+    },
+    "terrestria:block/hemlock_slab": {
+      "textures": {
+        "side": "terrestria:block/hemlock_planks",
+        "top": "terrestria:block/hemlock_planks",
+        "bottom": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_door_bottom_left": {
+      "textures": {
+        "top": "terrestria:block/rainbow_eucalyptus_door_top",
+        "bottom": "terrestria:block/rainbow_eucalyptus_door_bottom",
+        "particle": "terrestria:block/rainbow_eucalyptus_door_bottom"
+      }
+    },
+    "terrestria:block/volcanic_rock_slab_top": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock",
+        "top": "terrestria:block/volcanic_rock",
+        "bottom": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:item/sakura_log": {
+      "textures": {
+        "all": "terrestria:block/sakura_log",
+        "particle": "terrestria:block/sakura_log"
+      }
+    },
+    "terrestria:block/japanese_maple_fence_post": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/stripped_cypress_quarter_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_cypress_log",
+        "end": "terrestria:block/stripped_cypress_quarter_log_top",
+        "particle": "terrestria:block/stripped_cypress_log",
+        "inside": "terrestria:block/stripped_cypress_quarter_log"
+      }
+    },
+    "terrestria:block/sakura_door_top_right": {
+      "textures": {
+        "top": "terrestria:block/sakura_door_top",
+        "bottom": "terrestria:block/sakura_door_bottom",
+        "particle": "terrestria:block/sakura_door_top"
+      }
+    },
+    "terrestria:block/small_oak_log_branch": {
+      "textures": {
+        "side": "minecraft:block/oak_log",
+        "end": "minecraft:block/oak_log_top",
+        "particle": "minecraft:block/oak_log"
+      }
+    },
+    "terrestria:block/rubber_fence_side": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/cypress_sapling": {
+      "textures": {
+        "cross": "terrestria:block/cypress_sapling",
+        "particle": "terrestria:block/cypress_sapling"
+      }
+    },
+    "terrestria:block/japanese_maple_trapdoor_open": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_trapdoor",
+        "particle": "terrestria:block/japanese_maple_trapdoor"
+      }
+    },
+    "terrestria:block/volcanic_rock_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock",
+        "top": "terrestria:block/volcanic_rock",
+        "bottom": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/rubber_trapdoor_top": {
+      "textures": {
+        "texture": "terrestria:block/rubber_trapdoor",
+        "particle": "terrestria:block/rubber_trapdoor"
+      }
+    },
+    "terrestria:block/volcanic_rock_pressure_plate": {
+      "textures": {
+        "texture": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/japanese_maple_sign": {
+      "textures": {
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:item/rubber_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/rubber_sapling",
+        "layer1": "terrestria:block/rubber_sapling"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_cobblestone_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "top": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "bottom": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "particle": "terrestria:block/mossy_volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/willow_trapdoor_bottom": {
+      "textures": {
+        "texture": "terrestria:block/willow_trapdoor",
+        "particle": "terrestria:block/willow_trapdoor"
+      }
+    },
+    "terrestria:block/willow_slab": {
+      "textures": {
+        "side": "terrestria:block/willow_planks",
+        "top": "terrestria:block/willow_planks",
+        "bottom": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/stripped_rubber_wood": {
+      "textures": {
+        "side": "terrestria:block/stripped_rubber_log",
+        "east": "terrestria:block/stripped_rubber_log",
+        "south": "terrestria:block/stripped_rubber_log",
+        "north": "terrestria:block/stripped_rubber_log",
+        "west": "terrestria:block/stripped_rubber_log",
+        "end": "terrestria:block/stripped_rubber_log",
+        "particle": "terrestria:block/stripped_rubber_log",
+        "up": "terrestria:block/stripped_rubber_log",
+        "down": "terrestria:block/stripped_rubber_log"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/rainbow_eucalyptus_planks",
+        "top": "terrestria:block/rainbow_eucalyptus_planks",
+        "bottom": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_cobblestone_wall_side": {
+      "textures": {
+        "particle": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "wall": "terrestria:block/mossy_volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:item/cypress_boat": {
+      "textures": {
+        "layer0": "terrestria:item/cypress_boat",
+        "layer1": "terrestria:item/cypress_boat"
+      }
+    },
+    "terrestria:block/willow_button_pressed": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_button": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/tall_cattail_bottom": {
+      "textures": {
+        "texture": "terrestria:block/tall_cattail_bottom",
+        "particle": "terrestria:block/tall_cattail_bottom"
+      }
+    },
+    "terrestria:block/potted_willow_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/willow_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/willow_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/willow_planks",
+        "top": "terrestria:block/willow_planks",
+        "bottom": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/tiny_cactus": {
+      "textures": {
+        "cross": "terrestria:block/tiny_cactus",
+        "particle": "terrestria:block/tiny_cactus"
+      }
+    },
+    "terrestria:item/sakura_sign": {
+      "textures": {
+        "layer0": "terrestria:item/sakura_sign",
+        "layer1": "terrestria:item/sakura_sign"
+      }
+    },
+    "terrestria:block/yucca_palm_door_top_right": {
+      "textures": {
+        "top": "terrestria:block/yucca_palm_door_top",
+        "bottom": "terrestria:block/yucca_palm_door_bottom",
+        "particle": "terrestria:block/yucca_palm_door_top"
+      }
+    },
+    "terrestria:block/stripped_small_oak_log_leaves_cutout": {
+      "textures": {
+        "leaves": "minecraft:block/oak_leaves",
+        "particle": "minecraft:block/oak_leaves"
+      }
+    },
+    "terrestria:block/redwood_fence_gate_open": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_trapdoor_bottom": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_trapdoor",
+        "particle": "terrestria:block/rainbow_eucalyptus_trapdoor"
+      }
+    },
+    "terrestria:block/stripped_small_oak_log_branch": {
+      "textures": {
+        "side": "minecraft:block/stripped_oak_log",
+        "end": "minecraft:block/stripped_oak_log_top",
+        "particle": "minecraft:block/stripped_oak_log"
+      }
+    },
+    "terrestria:item/monsteras": {
+      "textures": {
+        "layer0": "terrestria:block/monsteras",
+        "layer1": "terrestria:block/monsteras"
+      }
+    },
+    "terrestria:block/small_oak_log": {
+      "textures": {
+        "side": "minecraft:block/oak_log",
+        "particle": "minecraft:block/oak_log"
+      }
+    },
+    "terrestria:block/willow_door_bottom_left_open": {
+      "textures": {
+        "top": "terrestria:block/willow_door_top",
+        "bottom": "terrestria:block/willow_door_bottom",
+        "particle": "terrestria:block/willow_door_bottom"
+      }
+    },
+    "terrestria:block/cypress_fence_inventory": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/potted_cypress_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/cypress_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/volcanic_rock_brick_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock_bricks",
+        "top": "terrestria:block/volcanic_rock_bricks",
+        "bottom": "terrestria:block/volcanic_rock_bricks",
+        "particle": "terrestria:block/volcanic_rock_bricks"
+      }
+    },
+    "terrestria:item/willow_hanging_sign": {
+      "textures": {
+        "layer0": "terrestria:item/willow_hanging_sign",
+        "layer1": "terrestria:item/willow_hanging_sign"
+      }
+    },
+    "terrestria:block/willow_trapdoor_open": {
+      "textures": {
+        "texture": "terrestria:block/willow_trapdoor",
+        "particle": "terrestria:block/willow_trapdoor"
+      }
+    },
+    "terrestria:block/willow_door_top_left": {
+      "textures": {
+        "top": "terrestria:block/willow_door_top",
+        "bottom": "terrestria:block/willow_door_bottom",
+        "particle": "terrestria:block/willow_door_top"
+      }
+    },
+    "terrestria:block/japanese_maple_fence_inventory": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/willow_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/willow_planks",
+        "top": "terrestria:block/willow_planks",
+        "bottom": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/sakura_fence_gate_wall_open": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/volcanic_rock_brick_slab": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock_bricks",
+        "top": "terrestria:block/volcanic_rock_bricks",
+        "bottom": "terrestria:block/volcanic_rock_bricks",
+        "particle": "terrestria:block/volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/yucca_palm_pressure_plate": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_door_bottom_left": {
+      "textures": {
+        "top": "terrestria:block/yucca_palm_door_top",
+        "bottom": "terrestria:block/yucca_palm_door_bottom",
+        "particle": "terrestria:block/yucca_palm_door_bottom"
+      }
+    },
+    "terrestria:block/redwood_fence_post": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_door_bottom_left_open": {
+      "textures": {
+        "top": "terrestria:block/rainbow_eucalyptus_door_top",
+        "bottom": "terrestria:block/rainbow_eucalyptus_door_bottom",
+        "particle": "terrestria:block/rainbow_eucalyptus_door_bottom"
+      }
+    },
+    "terrestria:block/sakura_planks": {
+      "textures": {
+        "all": "terrestria:block/sakura_planks",
+        "east": "terrestria:block/sakura_planks",
+        "south": "terrestria:block/sakura_planks",
+        "north": "terrestria:block/sakura_planks",
+        "west": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks",
+        "up": "terrestria:block/sakura_planks",
+        "down": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_fence_gate_open": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/cypress_planks": {
+      "textures": {
+        "all": "terrestria:block/cypress_planks",
+        "east": "terrestria:block/cypress_planks",
+        "south": "terrestria:block/cypress_planks",
+        "north": "terrestria:block/cypress_planks",
+        "west": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks",
+        "up": "terrestria:block/cypress_planks",
+        "down": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:item/yucca_palm_log": {
+      "textures": {
+        "all": "terrestria:block/yucca_palm_log",
+        "particle": "terrestria:block/yucca_palm_log"
+      }
+    },
+    "terrestria:block/yucca_palm_fence_gate": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/cypress_door_top_right": {
+      "textures": {
+        "top": "terrestria:block/cypress_door_top",
+        "bottom": "terrestria:block/cypress_door_bottom",
+        "particle": "terrestria:block/cypress_door_top"
+      }
+    },
+    "terrestria:block/yucca_palm_log_leaves": {
+      "textures": {
+        "leaves": "terrestria:block/yucca_palm_leaves",
+        "particle": "terrestria:block/yucca_palm_leaves"
+      }
+    },
+    "terrestria:block/hemlock_button_pressed": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_trapdoor_open": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_trapdoor",
+        "particle": "terrestria:block/yucca_palm_trapdoor"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock_stairs": {
+      "textures": {
+        "side": "terrestria:block/smooth_volcanic_rock",
+        "top": "terrestria:block/smooth_volcanic_rock",
+        "bottom": "terrestria:block/smooth_volcanic_rock",
+        "particle": "terrestria:block/smooth_volcanic_rock"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_log": {
+      "textures": {
+        "side": "terrestria:block/rainbow_eucalyptus_log",
+        "east": "terrestria:block/rainbow_eucalyptus_log",
+        "south": "terrestria:block/rainbow_eucalyptus_log",
+        "north": "terrestria:block/rainbow_eucalyptus_log",
+        "west": "terrestria:block/rainbow_eucalyptus_log",
+        "end": "terrestria:block/rainbow_eucalyptus_log_top",
+        "particle": "terrestria:block/rainbow_eucalyptus_log",
+        "up": "terrestria:block/rainbow_eucalyptus_log_top",
+        "down": "terrestria:block/rainbow_eucalyptus_log_top"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/smooth_volcanic_rock",
+        "top": "terrestria:block/smooth_volcanic_rock",
+        "bottom": "terrestria:block/smooth_volcanic_rock",
+        "particle": "terrestria:block/smooth_volcanic_rock"
+      }
+    },
+    "terrestria:block/stripped_sakura_log_branch": {
+      "textures": {
+        "side": "terrestria:block/stripped_sakura_log",
+        "end": "terrestria:block/stripped_sakura_log_top",
+        "particle": "terrestria:block/stripped_sakura_log"
+      }
+    },
+    "terrestria:block/japanese_maple_button_pressed": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/rubber_planks": {
+      "textures": {
+        "all": "terrestria:block/rubber_planks",
+        "east": "terrestria:block/rubber_planks",
+        "south": "terrestria:block/rubber_planks",
+        "north": "terrestria:block/rubber_planks",
+        "west": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks",
+        "up": "terrestria:block/rubber_planks",
+        "down": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:item/yucca_palm_boat": {
+      "textures": {
+        "layer0": "terrestria:item/yucca_palm_boat",
+        "layer1": "terrestria:item/yucca_palm_boat"
+      }
+    },
+    "terrestria:block/redwood_door_bottom_right": {
+      "textures": {
+        "top": "terrestria:block/redwood_door_top",
+        "bottom": "terrestria:block/redwood_door_bottom",
+        "particle": "terrestria:block/redwood_door_bottom"
+      }
+    },
+    "terrestria:block/hemlock_sign": {
+      "textures": {
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:item/rainbow_eucalyptus_door": {
+      "textures": {
+        "layer0": "terrestria:item/rainbow_eucalyptus_door",
+        "layer1": "terrestria:item/rainbow_eucalyptus_door"
+      }
+    },
+    "terrestria:block/yucca_palm_fence_post": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/redwood_wood": {
+      "textures": {
+        "side": "terrestria:block/redwood_log",
+        "east": "terrestria:block/redwood_log",
+        "south": "terrestria:block/redwood_log",
+        "north": "terrestria:block/redwood_log",
+        "west": "terrestria:block/redwood_log",
+        "end": "terrestria:block/redwood_log",
+        "particle": "terrestria:block/redwood_log",
+        "up": "terrestria:block/redwood_log",
+        "down": "terrestria:block/redwood_log"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_pressure_plate": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/cypress_quarter_log": {
+      "textures": {
+        "side": "terrestria:block/cypress_log",
+        "end": "terrestria:block/cypress_quarter_log_top",
+        "particle": "terrestria:block/cypress_log",
+        "inside": "terrestria:block/cypress_quarter_log"
+      }
+    },
+    "terrestria:block/sakura_slab_top": {
+      "textures": {
+        "side": "terrestria:block/sakura_planks",
+        "top": "terrestria:block/sakura_planks",
+        "bottom": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/sakura_fence_gate_open": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_fence_gate_wall_open": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:item/tiny_cactus": {
+      "textures": {
+        "layer0": "terrestria:block/tiny_cactus",
+        "layer1": "terrestria:block/tiny_cactus"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_hanging_sign": {
+      "textures": {
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock_slab_top": {
+      "textures": {
+        "side": "terrestria:block/smooth_volcanic_rock_slab_side",
+        "top": "terrestria:block/smooth_volcanic_rock",
+        "bottom": "terrestria:block/smooth_volcanic_rock",
+        "particle": "terrestria:block/smooth_volcanic_rock_slab_side"
+      }
+    },
+    "terrestria:item/rubber_door": {
+      "textures": {
+        "layer0": "terrestria:item/rubber_door",
+        "layer1": "terrestria:item/rubber_door"
+      }
+    },
+    "terrestria:item/dark_japanese_maple_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/dark_japanese_maple_sapling",
+        "layer1": "terrestria:block/dark_japanese_maple_sapling"
+      }
+    },
+    "terrestria:block/andisol_grass_block": {
+      "textures": {
+        "side": "terrestria:block/andisol_grass_block_side",
+        "top": "minecraft:block/grass_block_top",
+        "overlay": "minecraft:block/grass_block_side_overlay",
+        "bottom": "terrestria:block/andisol",
+        "particle": "terrestria:block/andisol"
+      }
+    },
+    "terrestria:block/cypress_pressure_plate": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_door_top_left_open": {
+      "textures": {
+        "top": "terrestria:block/yucca_palm_door_top",
+        "bottom": "terrestria:block/yucca_palm_door_bottom",
+        "particle": "terrestria:block/yucca_palm_door_top"
+      }
+    },
+    "terrestria:item/hemlock_sign": {
+      "textures": {
+        "layer0": "terrestria:item/hemlock_sign",
+        "layer1": "terrestria:item/hemlock_sign"
+      }
+    },
+    "terrestria:block/sakura_pressure_plate_down": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/volcanic_rock_brick_slab_top": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock_bricks",
+        "top": "terrestria:block/volcanic_rock_bricks",
+        "bottom": "terrestria:block/volcanic_rock_bricks",
+        "particle": "terrestria:block/volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_planks": {
+      "textures": {
+        "all": "terrestria:block/rainbow_eucalyptus_planks",
+        "east": "terrestria:block/rainbow_eucalyptus_planks",
+        "south": "terrestria:block/rainbow_eucalyptus_planks",
+        "north": "terrestria:block/rainbow_eucalyptus_planks",
+        "west": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks",
+        "up": "terrestria:block/rainbow_eucalyptus_planks",
+        "down": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_cobblestone_stairs": {
+      "textures": {
+        "side": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "top": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "bottom": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "particle": "terrestria:block/mossy_volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/rubber_fence_gate_wall": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:item/cypress_hanging_sign": {
+      "textures": {
+        "layer0": "terrestria:item/cypress_hanging_sign",
+        "layer1": "terrestria:item/cypress_hanging_sign"
+      }
+    },
+    "terrestria:block/redwood_pressure_plate": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/hemlock_slab_top": {
+      "textures": {
+        "side": "terrestria:block/hemlock_planks",
+        "top": "terrestria:block/hemlock_planks",
+        "bottom": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/potted_rainbow_eucalyptus_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/rainbow_eucalyptus_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/rubber_door_top_left_open": {
+      "textures": {
+        "top": "terrestria:block/rubber_door_top",
+        "bottom": "terrestria:block/rubber_door_bottom",
+        "particle": "terrestria:block/rubber_door_top"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock_wall_inventory": {
+      "textures": {
+        "particle": "terrestria:block/smooth_volcanic_rock",
+        "wall": "terrestria:block/smooth_volcanic_rock"
+      }
+    },
+    "terrestria:block/hemlock_hanging_sign": {
+      "textures": {
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_pressure_plate_down": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/potted_hemlock_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/hemlock_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/redwood_fence_gate": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_door_top_left_open": {
+      "textures": {
+        "top": "terrestria:block/rainbow_eucalyptus_door_top",
+        "bottom": "terrestria:block/rainbow_eucalyptus_door_bottom",
+        "particle": "terrestria:block/rainbow_eucalyptus_door_top"
+      }
+    },
+    "terrestria:block/willow_slab_top": {
+      "textures": {
+        "side": "terrestria:block/willow_planks",
+        "top": "terrestria:block/willow_planks",
+        "bottom": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/rubber_door_bottom_left": {
+      "textures": {
+        "top": "terrestria:block/rubber_door_top",
+        "bottom": "terrestria:block/rubber_door_bottom",
+        "particle": "terrestria:block/rubber_door_bottom"
+      }
+    },
+    "terrestria:block/andisol_farmland": {
+      "textures": {
+        "top": "terrestria:block/andisol_farmland",
+        "dirt": "terrestria:block/andisol",
+        "particle": "terrestria:block/andisol"
+      }
+    },
+    "terrestria:block/volcanic_rock_cobblestone_wall_inventory": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock_cobblestone",
+        "wall": "terrestria:block/volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/redwood_slab_top": {
+      "textures": {
+        "side": "terrestria:block/redwood_planks",
+        "top": "terrestria:block/redwood_planks",
+        "bottom": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/jungle_palm_leaves": {
+      "textures": {
+        "all": "terrestria:block/jungle_palm_leaves",
+        "particle": "terrestria:block/jungle_palm_leaves"
+      }
+    },
+    "terrestria:block/willow_sapling": {
+      "textures": {
+        "cross": "terrestria:block/willow_sapling",
+        "particle": "terrestria:block/willow_sapling"
+      }
+    },
+    "terrestria:item/rainbow_eucalyptus_chest_boat": {
+      "textures": {
+        "layer0": "terrestria:item/rainbow_eucalyptus_chest_boat",
+        "layer1": "terrestria:item/rainbow_eucalyptus_chest_boat"
+      }
+    },
+    "terrestria:block/redwood_button_inventory": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_stairs": {
+      "textures": {
+        "side": "terrestria:block/yucca_palm_planks",
+        "top": "terrestria:block/yucca_palm_planks",
+        "bottom": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/hemlock_button_inventory": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/redwood_door_top_left_open": {
+      "textures": {
+        "top": "terrestria:block/redwood_door_top",
+        "bottom": "terrestria:block/redwood_door_bottom",
+        "particle": "terrestria:block/redwood_door_top"
+      }
+    },
+    "terrestria:item/redwood_chest_boat": {
+      "textures": {
+        "layer0": "terrestria:item/redwood_chest_boat",
+        "layer1": "terrestria:item/redwood_chest_boat"
+      }
+    },
+    "terrestria:item/willow_boat": {
+      "textures": {
+        "layer0": "terrestria:item/willow_boat",
+        "layer1": "terrestria:item/willow_boat"
+      }
+    },
+    "terrestria:block/stripped_willow_wood": {
+      "textures": {
+        "side": "terrestria:block/stripped_willow_log",
+        "east": "terrestria:block/stripped_willow_log",
+        "south": "terrestria:block/stripped_willow_log",
+        "north": "terrestria:block/stripped_willow_log",
+        "west": "terrestria:block/stripped_willow_log",
+        "end": "terrestria:block/stripped_willow_log",
+        "particle": "terrestria:block/stripped_willow_log",
+        "up": "terrestria:block/stripped_willow_log",
+        "down": "terrestria:block/stripped_willow_log"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_quarter_log": {
+      "textures": {
+        "side": "terrestria:block/rainbow_eucalyptus_log",
+        "end": "terrestria:block/rainbow_eucalyptus_quarter_log_top",
+        "particle": "terrestria:block/rainbow_eucalyptus_log",
+        "inside": "terrestria:block/rainbow_eucalyptus_quarter_log"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock_slab_double": {
+      "textures": {
+        "side": "terrestria:block/smooth_volcanic_rock_slab_side",
+        "east": "terrestria:block/smooth_volcanic_rock_slab_side",
+        "south": "terrestria:block/smooth_volcanic_rock_slab_side",
+        "north": "terrestria:block/smooth_volcanic_rock_slab_side",
+        "west": "terrestria:block/smooth_volcanic_rock_slab_side",
+        "end": "terrestria:block/smooth_volcanic_rock",
+        "particle": "terrestria:block/smooth_volcanic_rock_slab_side",
+        "up": "terrestria:block/smooth_volcanic_rock",
+        "down": "terrestria:block/smooth_volcanic_rock"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_pressure_plate_down": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_fence_gate_wall": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/stripped_cypress_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/stripped_cypress_log",
+        "east": "terrestria:block/stripped_cypress_log",
+        "south": "terrestria:block/stripped_cypress_log",
+        "north": "terrestria:block/stripped_cypress_log",
+        "west": "terrestria:block/stripped_cypress_log",
+        "end": "terrestria:block/stripped_cypress_log_top",
+        "particle": "terrestria:block/stripped_cypress_log",
+        "up": "terrestria:block/stripped_cypress_log_top",
+        "down": "terrestria:block/stripped_cypress_log_top"
+      }
+    },
+    "terrestria:item/redwood_sign": {
+      "textures": {
+        "layer0": "terrestria:item/redwood_sign",
+        "layer1": "terrestria:item/redwood_sign"
+      }
+    },
+    "terrestria:block/andisol": {
+      "textures": {
+        "all": "terrestria:block/andisol",
+        "east": "terrestria:block/andisol",
+        "south": "terrestria:block/andisol",
+        "north": "terrestria:block/andisol",
+        "west": "terrestria:block/andisol",
+        "particle": "terrestria:block/andisol",
+        "up": "terrestria:block/andisol",
+        "down": "terrestria:block/andisol"
+      }
+    },
+    "terrestria:block/willow_button": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/potted_agave": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/agave",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/tall_cattail_top": {
+      "textures": {
+        "texture": "terrestria:block/tall_cattail_top",
+        "particle": "terrestria:block/tall_cattail_top"
+      }
+    },
+    "terrestria:block/sakura_door_bottom_left_open": {
+      "textures": {
+        "top": "terrestria:block/sakura_door_top",
+        "bottom": "terrestria:block/sakura_door_bottom",
+        "particle": "terrestria:block/sakura_door_bottom"
+      }
+    },
+    "terrestria:block/cypress_slab": {
+      "textures": {
+        "side": "terrestria:block/cypress_planks",
+        "top": "terrestria:block/cypress_planks",
+        "bottom": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_fence_gate_wall_open": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/andisol_podzol": {
+      "textures": {
+        "side": "terrestria:block/andisol_podzol_side",
+        "east": "terrestria:block/andisol_podzol_side",
+        "top": "minecraft:block/podzol_top",
+        "south": "terrestria:block/andisol_podzol_side",
+        "bottom": "terrestria:block/andisol",
+        "north": "terrestria:block/andisol_podzol_side",
+        "west": "terrestria:block/andisol_podzol_side",
+        "particle": "terrestria:block/andisol_podzol_side",
+        "up": "minecraft:block/podzol_top",
+        "down": "terrestria:block/andisol"
+      }
+    },
+    "terrestria:block/redwood_door_top_left": {
+      "textures": {
+        "top": "terrestria:block/redwood_door_top",
+        "bottom": "terrestria:block/redwood_door_bottom",
+        "particle": "terrestria:block/redwood_door_top"
+      }
+    },
+    "terrestria:block/sakura_log": {
+      "textures": {
+        "side": "terrestria:block/sakura_log",
+        "particle": "terrestria:block/sakura_log"
+      }
+    },
+    "terrestria:block/rubber_log": {
+      "textures": {
+        "side": "terrestria:block/rubber_log",
+        "east": "terrestria:block/rubber_log",
+        "south": "terrestria:block/rubber_log",
+        "north": "terrestria:block/rubber_log",
+        "west": "terrestria:block/rubber_log",
+        "end": "terrestria:block/rubber_log_top",
+        "particle": "terrestria:block/rubber_log",
+        "up": "terrestria:block/rubber_log_top",
+        "down": "terrestria:block/rubber_log_top"
+      }
+    },
+    "terrestria:block/sakura_door_bottom_right_open": {
+      "textures": {
+        "top": "terrestria:block/sakura_door_top",
+        "bottom": "terrestria:block/sakura_door_bottom",
+        "particle": "terrestria:block/sakura_door_bottom"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_brick_wall_side": {
+      "textures": {
+        "particle": "terrestria:block/mossy_volcanic_rock_bricks",
+        "wall": "terrestria:block/mossy_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/aloe_vera": {
+      "textures": {
+        "cross": "terrestria:block/aloe_vera",
+        "particle": "terrestria:block/aloe_vera"
+      }
+    },
+    "terrestria:block/cypress_fence_gate_wall_open": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:item/stripped_sakura_log": {
+      "textures": {
+        "all": "terrestria:block/stripped_sakura_log",
+        "particle": "terrestria:block/stripped_sakura_log"
+      }
+    },
+    "terrestria:block/redwood_sign": {
+      "textures": {
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/hemlock_log": {
+      "textures": {
+        "side": "terrestria:block/hemlock_log",
+        "east": "terrestria:block/hemlock_log",
+        "south": "terrestria:block/hemlock_log",
+        "north": "terrestria:block/hemlock_log",
+        "west": "terrestria:block/hemlock_log",
+        "end": "terrestria:block/hemlock_log_top",
+        "particle": "terrestria:block/hemlock_log",
+        "up": "terrestria:block/hemlock_log_top",
+        "down": "terrestria:block/hemlock_log_top"
+      }
+    },
+    "terrestria:block/japanese_maple_door_top_left": {
+      "textures": {
+        "top": "terrestria:block/japanese_maple_door_top",
+        "bottom": "terrestria:block/japanese_maple_door_bottom",
+        "particle": "terrestria:block/japanese_maple_door_top"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock_wall_side_tall": {
+      "textures": {
+        "particle": "terrestria:block/smooth_volcanic_rock",
+        "wall": "terrestria:block/smooth_volcanic_rock"
+      }
+    },
+    "terrestria:block/hemlock_door_top_left": {
+      "textures": {
+        "top": "terrestria:block/hemlock_door_top",
+        "bottom": "terrestria:block/hemlock_door_bottom",
+        "particle": "terrestria:block/hemlock_door_top"
+      }
+    },
+    "terrestria:block/redwood_fence_side": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_cobblestone_slab": {
+      "textures": {
+        "side": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "top": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "bottom": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "particle": "terrestria:block/mossy_volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/volcanic_rock_brick_wall_inventory": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock_bricks",
+        "wall": "terrestria:block/volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_slab": {
+      "textures": {
+        "side": "terrestria:block/rainbow_eucalyptus_planks",
+        "top": "terrestria:block/rainbow_eucalyptus_planks",
+        "bottom": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/dark_japanese_maple_leaves": {
+      "textures": {
+        "all": "terrestria:block/dark_japanese_maple_leaves",
+        "particle": "terrestria:block/dark_japanese_maple_leaves"
+      }
+    },
+    "terrestria:block/cypress_door_top_right_open": {
+      "textures": {
+        "top": "terrestria:block/cypress_door_top",
+        "bottom": "terrestria:block/cypress_door_bottom",
+        "particle": "terrestria:block/cypress_door_top"
+      }
+    },
+    "terrestria:block/stripped_willow_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_willow_log",
+        "east": "terrestria:block/stripped_willow_log",
+        "south": "terrestria:block/stripped_willow_log",
+        "north": "terrestria:block/stripped_willow_log",
+        "west": "terrestria:block/stripped_willow_log",
+        "end": "terrestria:block/stripped_willow_log_top",
+        "particle": "terrestria:block/stripped_willow_log",
+        "up": "terrestria:block/stripped_willow_log_top",
+        "down": "terrestria:block/stripped_willow_log_top"
+      }
+    },
+    "terrestria:block/willow_stairs": {
+      "textures": {
+        "side": "terrestria:block/willow_planks",
+        "top": "terrestria:block/willow_planks",
+        "bottom": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_fence_gate_wall": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/stripped_rainbow_eucalyptus_quarter_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "end": "terrestria:block/stripped_rainbow_eucalyptus_quarter_log_top",
+        "particle": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "inside": "terrestria:block/stripped_rainbow_eucalyptus_quarter_log"
+      }
+    },
+    "terrestria:block/andisol_farmland_moist": {
+      "textures": {
+        "top": "terrestria:block/andisol_farmland_moist",
+        "dirt": "terrestria:block/andisol",
+        "particle": "terrestria:block/andisol"
+      }
+    },
+    "terrestria:block/cypress_slab_top": {
+      "textures": {
+        "side": "terrestria:block/cypress_planks",
+        "top": "terrestria:block/cypress_planks",
+        "bottom": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:item/hemlock_boat": {
+      "textures": {
+        "layer0": "terrestria:item/hemlock_boat",
+        "layer1": "terrestria:item/hemlock_boat"
+      }
+    },
+    "terrestria:block/willow_door_top_left_open": {
+      "textures": {
+        "top": "terrestria:block/willow_door_top",
+        "bottom": "terrestria:block/willow_door_bottom",
+        "particle": "terrestria:block/willow_door_top"
+      }
+    },
+    "terrestria:block/rubber_fence_gate_open": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/redwood_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/redwood_planks",
+        "top": "terrestria:block/redwood_planks",
+        "bottom": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/small_oak_log_leaves": {
+      "textures": {
+        "leaves": "minecraft:block/oak_leaves",
+        "particle": "minecraft:block/oak_leaves"
+      }
+    },
+    "terrestria:block/willow_door_top_right": {
+      "textures": {
+        "top": "terrestria:block/willow_door_top",
+        "bottom": "terrestria:block/willow_door_bottom",
+        "particle": "terrestria:block/willow_door_top"
+      }
+    },
+    "terrestria:item/log_turner": {
+      "textures": {
+        "layer0": "terrestria:item/log_turner",
+        "layer1": "terrestria:item/log_turner"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock_slab": {
+      "textures": {
+        "side": "terrestria:block/smooth_volcanic_rock_slab_side",
+        "top": "terrestria:block/smooth_volcanic_rock",
+        "bottom": "terrestria:block/smooth_volcanic_rock",
+        "particle": "terrestria:block/smooth_volcanic_rock_slab_side"
+      }
+    },
+    "terrestria:block/redwood_planks": {
+      "textures": {
+        "all": "terrestria:block/redwood_planks",
+        "east": "terrestria:block/redwood_planks",
+        "south": "terrestria:block/redwood_planks",
+        "north": "terrestria:block/redwood_planks",
+        "west": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks",
+        "up": "terrestria:block/redwood_planks",
+        "down": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_fence_side": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/yucca_palm_planks",
+        "top": "terrestria:block/yucca_palm_planks",
+        "bottom": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/rubber_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/rubber_planks",
+        "top": "terrestria:block/rubber_planks",
+        "bottom": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/cypress_leaves": {
+      "textures": {
+        "all": "terrestria:block/cypress_leaves",
+        "particle": "terrestria:block/cypress_leaves"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_brick_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/mossy_volcanic_rock_bricks",
+        "top": "terrestria:block/mossy_volcanic_rock_bricks",
+        "bottom": "terrestria:block/mossy_volcanic_rock_bricks",
+        "particle": "terrestria:block/mossy_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:item/stripped_yucca_palm_log": {
+      "textures": {
+        "all": "terrestria:block/stripped_yucca_palm_log",
+        "particle": "terrestria:block/stripped_yucca_palm_log"
+      }
+    },
+    "terrestria:block/japanese_maple_wood": {
+      "textures": {
+        "side": "terrestria:block/japanese_maple_log",
+        "east": "terrestria:block/japanese_maple_log",
+        "south": "terrestria:block/japanese_maple_log",
+        "north": "terrestria:block/japanese_maple_log",
+        "west": "terrestria:block/japanese_maple_log",
+        "end": "terrestria:block/japanese_maple_log",
+        "particle": "terrestria:block/japanese_maple_log",
+        "up": "terrestria:block/japanese_maple_log",
+        "down": "terrestria:block/japanese_maple_log"
+      }
+    },
+    "terrestria:block/hemlock_wood": {
+      "textures": {
+        "side": "terrestria:block/hemlock_log",
+        "east": "terrestria:block/hemlock_log",
+        "south": "terrestria:block/hemlock_log",
+        "north": "terrestria:block/hemlock_log",
+        "west": "terrestria:block/hemlock_log",
+        "end": "terrestria:block/hemlock_log",
+        "particle": "terrestria:block/hemlock_log",
+        "up": "terrestria:block/hemlock_log",
+        "down": "terrestria:block/hemlock_log"
+      }
+    },
+    "terrestria:block/hemlock_fence_gate_open": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/sakura_trapdoor_open": {
+      "textures": {
+        "texture": "terrestria:block/sakura_trapdoor",
+        "particle": "terrestria:block/sakura_trapdoor"
+      }
+    },
+    "terrestria:block/stripped_hemlock_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_hemlock_log",
+        "east": "terrestria:block/stripped_hemlock_log",
+        "south": "terrestria:block/stripped_hemlock_log",
+        "north": "terrestria:block/stripped_hemlock_log",
+        "west": "terrestria:block/stripped_hemlock_log",
+        "end": "terrestria:block/stripped_hemlock_log_top",
+        "particle": "terrestria:block/stripped_hemlock_log",
+        "up": "terrestria:block/stripped_hemlock_log_top",
+        "down": "terrestria:block/stripped_hemlock_log_top"
+      }
+    },
+    "terrestria:block/cypress_fence_gate": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/potted_aloe_vera": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/aloe_vera",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/cypress_pressure_plate_down": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:item/rubber_hanging_sign": {
+      "textures": {
+        "layer0": "terrestria:item/rubber_hanging_sign",
+        "layer1": "terrestria:item/rubber_hanging_sign"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_brick_wall_inventory": {
+      "textures": {
+        "particle": "terrestria:block/mossy_volcanic_rock_bricks",
+        "wall": "terrestria:block/mossy_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_trapdoor_top": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_trapdoor",
+        "particle": "terrestria:block/rainbow_eucalyptus_trapdoor"
+      }
+    },
+    "terrestria:block/volcanic_rock_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock",
+        "top": "terrestria:block/volcanic_rock",
+        "bottom": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/cypress_fence_gate_wall": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_pressure_plate": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/cypress_trapdoor_top": {
+      "textures": {
+        "texture": "terrestria:block/cypress_trapdoor",
+        "particle": "terrestria:block/cypress_trapdoor"
+      }
+    },
+    "terrestria:block/japanese_maple_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/japanese_maple_log",
+        "east": "terrestria:block/japanese_maple_log",
+        "south": "terrestria:block/japanese_maple_log",
+        "north": "terrestria:block/japanese_maple_log",
+        "west": "terrestria:block/japanese_maple_log",
+        "end": "terrestria:block/japanese_maple_log_top",
+        "particle": "terrestria:block/japanese_maple_log",
+        "up": "terrestria:block/japanese_maple_log_top",
+        "down": "terrestria:block/japanese_maple_log_top"
+      }
+    },
+    "terrestria:item/bryce_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/bryce_sapling",
+        "layer1": "terrestria:block/bryce_sapling"
+      }
+    },
+    "terrestria:block/japanese_maple_trapdoor_bottom": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_trapdoor",
+        "particle": "terrestria:block/japanese_maple_trapdoor"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/rainbow_eucalyptus_planks",
+        "top": "terrestria:block/rainbow_eucalyptus_planks",
+        "bottom": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/volcanic_rock_cobblestone_slab_top": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock_cobblestone",
+        "top": "terrestria:block/volcanic_rock_cobblestone",
+        "bottom": "terrestria:block/volcanic_rock_cobblestone",
+        "particle": "terrestria:block/volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/japanese_maple_door_bottom_right": {
+      "textures": {
+        "top": "terrestria:block/japanese_maple_door_top",
+        "bottom": "terrestria:block/japanese_maple_door_bottom",
+        "particle": "terrestria:block/japanese_maple_door_bottom"
+      }
+    },
+    "terrestria:item/japanese_maple_hanging_sign": {
+      "textures": {
+        "layer0": "terrestria:item/japanese_maple_hanging_sign",
+        "layer1": "terrestria:item/japanese_maple_hanging_sign"
+      }
+    },
+    "terrestria:block/hemlock_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/hemlock_log",
+        "east": "terrestria:block/hemlock_log",
+        "south": "terrestria:block/hemlock_log",
+        "north": "terrestria:block/hemlock_log",
+        "west": "terrestria:block/hemlock_log",
+        "end": "terrestria:block/hemlock_log_top",
+        "particle": "terrestria:block/hemlock_log",
+        "up": "terrestria:block/hemlock_log_top",
+        "down": "terrestria:block/hemlock_log_top"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_cobblestone_wall_inventory": {
+      "textures": {
+        "particle": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "wall": "terrestria:block/mossy_volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/rubber_slab": {
+      "textures": {
+        "side": "terrestria:block/rubber_planks",
+        "top": "terrestria:block/rubber_planks",
+        "bottom": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:item/willow_sign": {
+      "textures": {
+        "layer0": "terrestria:item/willow_sign",
+        "layer1": "terrestria:item/willow_sign"
+      }
+    },
+    "terrestria:block/cypress_log": {
+      "textures": {
+        "side": "terrestria:block/cypress_log",
+        "east": "terrestria:block/cypress_log",
+        "south": "terrestria:block/cypress_log",
+        "north": "terrestria:block/cypress_log",
+        "west": "terrestria:block/cypress_log",
+        "end": "terrestria:block/cypress_log_top",
+        "particle": "terrestria:block/cypress_log",
+        "up": "terrestria:block/cypress_log_top",
+        "down": "terrestria:block/cypress_log_top"
+      }
+    },
+    "terrestria:block/stripped_willow_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/stripped_willow_log",
+        "east": "terrestria:block/stripped_willow_log",
+        "south": "terrestria:block/stripped_willow_log",
+        "north": "terrestria:block/stripped_willow_log",
+        "west": "terrestria:block/stripped_willow_log",
+        "end": "terrestria:block/stripped_willow_log_top",
+        "particle": "terrestria:block/stripped_willow_log",
+        "up": "terrestria:block/stripped_willow_log_top",
+        "down": "terrestria:block/stripped_willow_log_top"
+      }
+    },
+    "terrestria:block/hemlock_leaves": {
+      "textures": {
+        "all": "terrestria:block/hemlock_leaves",
+        "particle": "terrestria:block/hemlock_leaves"
+      }
+    },
+    "terrestria:block/cypress_fence_post": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_brick_stairs": {
+      "textures": {
+        "side": "terrestria:block/mossy_volcanic_rock_bricks",
+        "top": "terrestria:block/mossy_volcanic_rock_bricks",
+        "bottom": "terrestria:block/mossy_volcanic_rock_bricks",
+        "particle": "terrestria:block/mossy_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/volcanic_rock_cobblestone_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock_cobblestone",
+        "top": "terrestria:block/volcanic_rock_cobblestone",
+        "bottom": "terrestria:block/volcanic_rock_cobblestone",
+        "particle": "terrestria:block/volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/stripped_hemlock_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/stripped_hemlock_log",
+        "east": "terrestria:block/stripped_hemlock_log",
+        "south": "terrestria:block/stripped_hemlock_log",
+        "north": "terrestria:block/stripped_hemlock_log",
+        "west": "terrestria:block/stripped_hemlock_log",
+        "end": "terrestria:block/stripped_hemlock_log_top",
+        "particle": "terrestria:block/stripped_hemlock_log",
+        "up": "terrestria:block/stripped_hemlock_log_top",
+        "down": "terrestria:block/stripped_hemlock_log_top"
+      }
+    },
+    "terrestria:block/japanese_maple_fence_gate_wall_open": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_log_branch": {
+      "textures": {
+        "side": "terrestria:block/yucca_palm_log",
+        "end": "terrestria:block/yucca_palm_log_top",
+        "particle": "terrestria:block/yucca_palm_log"
+      }
+    },
+    "terrestria:block/volcanic_rock_brick_wall_side_tall": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock_bricks",
+        "wall": "terrestria:block/volcanic_rock_bricks"
+      }
+    },
+    "terrestria:item/jungle_palm_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/jungle_palm_sapling",
+        "layer1": "terrestria:block/jungle_palm_sapling"
+      }
+    },
+    "terrestria:block/willow_planks": {
+      "textures": {
+        "all": "terrestria:block/willow_planks",
+        "east": "terrestria:block/willow_planks",
+        "south": "terrestria:block/willow_planks",
+        "north": "terrestria:block/willow_planks",
+        "west": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks",
+        "up": "terrestria:block/willow_planks",
+        "down": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_fence_gate_open": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/volcanic_rock_bricks": {
+      "textures": {
+        "all": "terrestria:block/volcanic_rock_bricks",
+        "east": "terrestria:block/volcanic_rock_bricks",
+        "south": "terrestria:block/volcanic_rock_bricks",
+        "north": "terrestria:block/volcanic_rock_bricks",
+        "west": "terrestria:block/volcanic_rock_bricks",
+        "particle": "terrestria:block/volcanic_rock_bricks",
+        "up": "terrestria:block/volcanic_rock_bricks",
+        "down": "terrestria:block/volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/sakura_button_inventory": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/rubber_door_bottom_right": {
+      "textures": {
+        "top": "terrestria:block/rubber_door_top",
+        "bottom": "terrestria:block/rubber_door_bottom",
+        "particle": "terrestria:block/rubber_door_bottom"
+      }
+    },
+    "terrestria:block/willow_door_bottom_left": {
+      "textures": {
+        "top": "terrestria:block/willow_door_top",
+        "bottom": "terrestria:block/willow_door_bottom",
+        "particle": "terrestria:block/willow_door_bottom"
+      }
+    },
+    "terrestria:block/sakura_fence_inventory": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/volcanic_rock_brick_wall_side": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock_bricks",
+        "wall": "terrestria:block/volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/japanese_maple_button": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/redwood_door_top_right": {
+      "textures": {
+        "top": "terrestria:block/redwood_door_top",
+        "bottom": "terrestria:block/redwood_door_bottom",
+        "particle": "terrestria:block/redwood_door_top"
+      }
+    },
+    "terrestria:block/willow_sign": {
+      "textures": {
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/japanese_maple_planks",
+        "top": "terrestria:block/japanese_maple_planks",
+        "bottom": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_log_leaves_cutout": {
+      "textures": {
+        "leaves": "terrestria:block/yucca_palm_leaves",
+        "particle": "terrestria:block/yucca_palm_leaves"
+      }
+    },
+    "terrestria:block/stripped_small_oak_log_leaves": {
+      "textures": {
+        "leaves": "minecraft:block/oak_leaves",
+        "particle": "minecraft:block/oak_leaves"
+      }
+    },
+    "terrestria:item/cypress_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/cypress_sapling",
+        "layer1": "terrestria:block/cypress_sapling"
+      }
+    },
+    "terrestria:block/andisol_dirt_path": {
+      "textures": {
+        "side": "terrestria:block/andisol_dirt_path_side",
+        "top": "minecraft:block/dirt_path_top",
+        "bottom": "terrestria:block/andisol",
+        "particle": "terrestria:block/andisol"
+      }
+    },
+    "terrestria:item/cypress_door": {
+      "textures": {
+        "layer0": "terrestria:item/cypress_door",
+        "layer1": "terrestria:item/cypress_door"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_fence_inventory": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/monsteras": {
+      "textures": {
+        "cross": "terrestria:block/monsteras",
+        "particle": "terrestria:block/monsteras"
+      }
+    },
+    "terrestria:block/yucca_palm_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/yucca_palm_planks",
+        "top": "terrestria:block/yucca_palm_planks",
+        "bottom": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/redwood_button_pressed": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/hemlock_pressure_plate": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:item/sakura_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/sakura_sapling",
+        "layer1": "terrestria:block/sakura_sapling"
+      }
+    },
+    "terrestria:block/volcanic_rock_wall_inventory": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock",
+        "wall": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/yucca_palm_door_bottom_right": {
+      "textures": {
+        "top": "terrestria:block/yucca_palm_door_top",
+        "bottom": "terrestria:block/yucca_palm_door_bottom",
+        "particle": "terrestria:block/yucca_palm_door_bottom"
+      }
+    },
+    "terrestria:block/stripped_sakura_log_leaves": {
+      "textures": {
+        "leaves": "terrestria:block/sakura_leaves",
+        "particle": "terrestria:block/sakura_leaves"
+      }
+    },
+    "terrestria:item/hemlock_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/hemlock_sapling",
+        "layer1": "terrestria:block/hemlock_sapling"
+      }
+    },
+    "terrestria:block/hemlock_door_bottom_left": {
+      "textures": {
+        "top": "terrestria:block/hemlock_door_top",
+        "bottom": "terrestria:block/hemlock_door_bottom",
+        "particle": "terrestria:block/hemlock_door_bottom"
+      }
+    },
+    "terrestria:item/japanese_maple_sign": {
+      "textures": {
+        "layer0": "terrestria:item/japanese_maple_sign",
+        "layer1": "terrestria:item/japanese_maple_sign"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_wood": {
+      "textures": {
+        "side": "terrestria:block/rainbow_eucalyptus_log",
+        "east": "terrestria:block/rainbow_eucalyptus_log",
+        "south": "terrestria:block/rainbow_eucalyptus_log",
+        "north": "terrestria:block/rainbow_eucalyptus_log",
+        "west": "terrestria:block/rainbow_eucalyptus_log",
+        "end": "terrestria:block/rainbow_eucalyptus_log",
+        "particle": "terrestria:block/rainbow_eucalyptus_log",
+        "up": "terrestria:block/rainbow_eucalyptus_log",
+        "down": "terrestria:block/rainbow_eucalyptus_log"
+      }
+    },
+    "terrestria:block/volcanic_rock_cobblestone_wall_side_tall": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock_cobblestone",
+        "wall": "terrestria:block/volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/dead_grass": {
+      "textures": {
+        "cross": "terrestria:block/dead_grass",
+        "particle": "terrestria:block/dead_grass"
+      }
+    },
+    "terrestria:block/cypress_door_top_left_open": {
+      "textures": {
+        "top": "terrestria:block/cypress_door_top",
+        "bottom": "terrestria:block/cypress_door_bottom",
+        "particle": "terrestria:block/cypress_door_top"
+      }
+    },
+    "terrestria:block/redwood_trapdoor_top": {
+      "textures": {
+        "texture": "terrestria:block/redwood_trapdoor",
+        "particle": "terrestria:block/redwood_trapdoor"
+      }
+    },
+    "terrestria:block/cypress_fence_side": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/volcanic_rock_brick_stairs": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock_bricks",
+        "top": "terrestria:block/volcanic_rock_bricks",
+        "bottom": "terrestria:block/volcanic_rock_bricks",
+        "particle": "terrestria:block/volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/sakura_door_bottom_left": {
+      "textures": {
+        "top": "terrestria:block/sakura_door_top",
+        "bottom": "terrestria:block/sakura_door_bottom",
+        "particle": "terrestria:block/sakura_door_bottom"
+      }
+    },
+    "terrestria:block/hemlock_fence_gate_wall": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:item/hemlock_hanging_sign": {
+      "textures": {
+        "layer0": "terrestria:item/hemlock_hanging_sign",
+        "layer1": "terrestria:item/hemlock_hanging_sign"
+      }
+    },
+    "terrestria:block/japanese_maple_planks": {
+      "textures": {
+        "all": "terrestria:block/japanese_maple_planks",
+        "east": "terrestria:block/japanese_maple_planks",
+        "south": "terrestria:block/japanese_maple_planks",
+        "north": "terrestria:block/japanese_maple_planks",
+        "west": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks",
+        "up": "terrestria:block/japanese_maple_planks",
+        "down": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/sakura_leaves": {
+      "textures": {
+        "all": "terrestria:block/sakura_leaves",
+        "particle": "terrestria:block/sakura_leaves"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_door_bottom_right_open": {
+      "textures": {
+        "top": "terrestria:block/rainbow_eucalyptus_door_top",
+        "bottom": "terrestria:block/rainbow_eucalyptus_door_bottom",
+        "particle": "terrestria:block/rainbow_eucalyptus_door_bottom"
+      }
+    },
+    "terrestria:block/potted_sakura_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/sakura_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_stairs": {
+      "textures": {
+        "side": "terrestria:block/rainbow_eucalyptus_planks",
+        "top": "terrestria:block/rainbow_eucalyptus_planks",
+        "bottom": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/redwood_door_bottom_right_open": {
+      "textures": {
+        "top": "terrestria:block/redwood_door_top",
+        "bottom": "terrestria:block/redwood_door_bottom",
+        "particle": "terrestria:block/redwood_door_bottom"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_door_bottom_right": {
+      "textures": {
+        "top": "terrestria:block/rainbow_eucalyptus_door_top",
+        "bottom": "terrestria:block/rainbow_eucalyptus_door_bottom",
+        "particle": "terrestria:block/rainbow_eucalyptus_door_bottom"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_fence_post": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/volcanic_rock_button_pressed": {
+      "textures": {
+        "texture": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/stripped_japanese_maple_wood": {
+      "textures": {
+        "side": "terrestria:block/stripped_japanese_maple_log",
+        "east": "terrestria:block/stripped_japanese_maple_log",
+        "south": "terrestria:block/stripped_japanese_maple_log",
+        "north": "terrestria:block/stripped_japanese_maple_log",
+        "west": "terrestria:block/stripped_japanese_maple_log",
+        "end": "terrestria:block/stripped_japanese_maple_log",
+        "particle": "terrestria:block/stripped_japanese_maple_log",
+        "up": "terrestria:block/stripped_japanese_maple_log",
+        "down": "terrestria:block/stripped_japanese_maple_log"
+      }
+    },
+    "terrestria:block/redwood_trapdoor_bottom": {
+      "textures": {
+        "texture": "terrestria:block/redwood_trapdoor",
+        "particle": "terrestria:block/redwood_trapdoor"
+      }
+    },
+    "terrestria:block/yucca_palm_door_top_right_open": {
+      "textures": {
+        "top": "terrestria:block/yucca_palm_door_top",
+        "bottom": "terrestria:block/yucca_palm_door_bottom",
+        "particle": "terrestria:block/yucca_palm_door_top"
+      }
+    },
+    "terrestria:block/rubber_button_inventory": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/redwood_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/redwood_log",
+        "east": "terrestria:block/redwood_log",
+        "south": "terrestria:block/redwood_log",
+        "north": "terrestria:block/redwood_log",
+        "west": "terrestria:block/redwood_log",
+        "end": "terrestria:block/redwood_log_top",
+        "particle": "terrestria:block/redwood_log",
+        "up": "terrestria:block/redwood_log_top",
+        "down": "terrestria:block/redwood_log_top"
+      }
+    },
+    "terrestria:block/willow_pressure_plate": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/redwood_leaves": {
+      "textures": {
+        "all": "terrestria:block/redwood_leaves",
+        "particle": "terrestria:block/redwood_leaves"
+      }
+    },
+    "terrestria:block/willow_pressure_plate_down": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/hemlock_door_top_right": {
+      "textures": {
+        "top": "terrestria:block/hemlock_door_top",
+        "bottom": "terrestria:block/hemlock_door_bottom",
+        "particle": "terrestria:block/hemlock_door_top"
+      }
+    },
+    "terrestria:block/rubber_stairs": {
+      "textures": {
+        "side": "terrestria:block/rubber_planks",
+        "top": "terrestria:block/rubber_planks",
+        "bottom": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/redwood_door_bottom_left": {
+      "textures": {
+        "top": "terrestria:block/redwood_door_top",
+        "bottom": "terrestria:block/redwood_door_bottom",
+        "particle": "terrestria:block/redwood_door_bottom"
+      }
+    },
+    "terrestria:block/potted_indian_paintbrush": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/indian_paintbrush",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/sakura_sign": {
+      "textures": {
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:item/yucca_palm_sign": {
+      "textures": {
+        "layer0": "terrestria:item/yucca_palm_sign",
+        "layer1": "terrestria:item/yucca_palm_sign"
+      }
+    },
+    "terrestria:block/redwood_fence_inventory": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/stripped_cypress_wood": {
+      "textures": {
+        "side": "terrestria:block/stripped_cypress_log",
+        "east": "terrestria:block/stripped_cypress_log",
+        "south": "terrestria:block/stripped_cypress_log",
+        "north": "terrestria:block/stripped_cypress_log",
+        "west": "terrestria:block/stripped_cypress_log",
+        "end": "terrestria:block/stripped_cypress_log",
+        "particle": "terrestria:block/stripped_cypress_log",
+        "up": "terrestria:block/stripped_cypress_log",
+        "down": "terrestria:block/stripped_cypress_log"
+      }
+    },
+    "terrestria:block/rubber_door_bottom_left_open": {
+      "textures": {
+        "top": "terrestria:block/rubber_door_top",
+        "bottom": "terrestria:block/rubber_door_bottom",
+        "particle": "terrestria:block/rubber_door_bottom"
+      }
+    },
+    "terrestria:block/yucca_palm_leaves": {
+      "textures": {
+        "all": "terrestria:block/yucca_palm_leaves",
+        "particle": "terrestria:block/yucca_palm_leaves"
+      }
+    },
+    "terrestria:block/volcanic_rock_slab": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock",
+        "top": "terrestria:block/volcanic_rock",
+        "bottom": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/small_oak_log_leaves_cutout": {
+      "textures": {
+        "leaves": "minecraft:block/oak_leaves",
+        "particle": "minecraft:block/oak_leaves"
+      }
+    },
+    "terrestria:block/sakura_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/sakura_planks",
+        "top": "terrestria:block/sakura_planks",
+        "bottom": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/stripped_cypress_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_cypress_log",
+        "east": "terrestria:block/stripped_cypress_log",
+        "south": "terrestria:block/stripped_cypress_log",
+        "north": "terrestria:block/stripped_cypress_log",
+        "west": "terrestria:block/stripped_cypress_log",
+        "end": "terrestria:block/stripped_cypress_log_top",
+        "particle": "terrestria:block/stripped_cypress_log",
+        "up": "terrestria:block/stripped_cypress_log_top",
+        "down": "terrestria:block/stripped_cypress_log_top"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/smooth_volcanic_rock",
+        "top": "terrestria:block/smooth_volcanic_rock",
+        "bottom": "terrestria:block/smooth_volcanic_rock",
+        "particle": "terrestria:block/smooth_volcanic_rock"
+      }
+    },
+    "terrestria:block/sakura_fence_gate_wall": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/stripped_redwood_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_redwood_log",
+        "east": "terrestria:block/stripped_redwood_log",
+        "south": "terrestria:block/stripped_redwood_log",
+        "north": "terrestria:block/stripped_redwood_log",
+        "west": "terrestria:block/stripped_redwood_log",
+        "end": "terrestria:block/stripped_redwood_log_top",
+        "particle": "terrestria:block/stripped_redwood_log",
+        "up": "terrestria:block/stripped_redwood_log_top",
+        "down": "terrestria:block/stripped_redwood_log_top"
+      }
+    },
+    "terrestria:item/rubber_boat": {
+      "textures": {
+        "layer0": "terrestria:item/rubber_boat",
+        "layer1": "terrestria:item/rubber_boat"
+      }
+    },
+    "terrestria:block/willow_fence_gate_open": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/redwood_pressure_plate_down": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/agave": {
+      "textures": {
+        "cross": "terrestria:block/agave",
+        "particle": "terrestria:block/agave"
+      }
+    },
+    "terrestria:block/potted_monsteras": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/monsteras",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/cypress_door_top_left": {
+      "textures": {
+        "top": "terrestria:block/cypress_door_top",
+        "bottom": "terrestria:block/cypress_door_bottom",
+        "particle": "terrestria:block/cypress_door_top"
+      }
+    },
+    "terrestria:item/sakura_hanging_sign": {
+      "textures": {
+        "layer0": "terrestria:item/sakura_hanging_sign",
+        "layer1": "terrestria:item/sakura_hanging_sign"
+      }
+    },
+    "terrestria:block/saguaro_cactus": {
+      "textures": {
+        "side": "terrestria:block/saguaro_cactus",
+        "particle": "terrestria:block/saguaro_cactus"
+      }
+    },
+    "terrestria:block/bryce_sapling": {
+      "textures": {
+        "cross": "terrestria:block/bryce_sapling",
+        "particle": "terrestria:block/bryce_sapling"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/rainbow_eucalyptus_log",
+        "east": "terrestria:block/rainbow_eucalyptus_log",
+        "south": "terrestria:block/rainbow_eucalyptus_log",
+        "north": "terrestria:block/rainbow_eucalyptus_log",
+        "west": "terrestria:block/rainbow_eucalyptus_log",
+        "end": "terrestria:block/rainbow_eucalyptus_log_top",
+        "particle": "terrestria:block/rainbow_eucalyptus_log",
+        "up": "terrestria:block/rainbow_eucalyptus_log_top",
+        "down": "terrestria:block/rainbow_eucalyptus_log_top"
+      }
+    },
+    "terrestria:item/redwood_hanging_sign": {
+      "textures": {
+        "layer0": "terrestria:item/redwood_hanging_sign",
+        "layer1": "terrestria:item/redwood_hanging_sign"
+      }
+    },
+    "terrestria:item/sakura_door": {
+      "textures": {
+        "layer0": "terrestria:item/sakura_door",
+        "layer1": "terrestria:item/sakura_door"
+      }
+    },
+    "terrestria:block/japanese_maple_shrub_sapling": {
+      "textures": {
+        "cross": "terrestria:block/japanese_maple_shrub_sapling",
+        "particle": "terrestria:block/japanese_maple_shrub_sapling"
+      }
+    },
+    "terrestria:block/potted_bryce_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/bryce_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/stripped_yucca_palm_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_yucca_palm_log",
+        "particle": "terrestria:block/stripped_yucca_palm_log"
+      }
+    },
+    "terrestria:block/sakura_log_branch": {
+      "textures": {
+        "side": "terrestria:block/sakura_log",
+        "end": "terrestria:block/sakura_log_top",
+        "particle": "terrestria:block/sakura_log"
+      }
+    },
+    "terrestria:block/saguaro_cactus_leaves": {
+      "textures": {
+        "leaves": "minecraft:block/oak_leaves",
+        "particle": "minecraft:block/oak_leaves"
+      }
+    },
+    "terrestria:block/sakura_fence_side": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/willow_door_bottom_right": {
+      "textures": {
+        "top": "terrestria:block/willow_door_top",
+        "bottom": "terrestria:block/willow_door_bottom",
+        "particle": "terrestria:block/willow_door_bottom"
+      }
+    },
+    "terrestria:block/potted_yucca_palm_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/yucca_palm_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_cobblestone_slab_top": {
+      "textures": {
+        "side": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "top": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "bottom": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "particle": "terrestria:block/mossy_volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:item/cypress_chest_boat": {
+      "textures": {
+        "layer0": "terrestria:item/cypress_chest_boat",
+        "layer1": "terrestria:item/cypress_chest_boat"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_trapdoor_open": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_trapdoor",
+        "particle": "terrestria:block/rainbow_eucalyptus_trapdoor"
+      }
+    },
+    "terrestria:item/rainbow_eucalyptus_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/rainbow_eucalyptus_sapling",
+        "layer1": "terrestria:block/rainbow_eucalyptus_sapling"
+      }
+    },
+    "terrestria:block/japanese_maple_door_top_right_open": {
+      "textures": {
+        "top": "terrestria:block/japanese_maple_door_top",
+        "bottom": "terrestria:block/japanese_maple_door_bottom",
+        "particle": "terrestria:block/japanese_maple_door_top"
+      }
+    },
+    "terrestria:item/japanese_maple_boat": {
+      "textures": {
+        "layer0": "terrestria:item/japanese_maple_boat",
+        "layer1": "terrestria:item/japanese_maple_boat"
+      }
+    },
+    "terrestria:block/yucca_palm_trapdoor_top": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_trapdoor",
+        "particle": "terrestria:block/yucca_palm_trapdoor"
+      }
+    },
+    "terrestria:block/hemlock_trapdoor_open": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_trapdoor",
+        "particle": "terrestria:block/hemlock_trapdoor"
+      }
+    },
+    "terrestria:block/sakura_door_top_left_open": {
+      "textures": {
+        "top": "terrestria:block/sakura_door_top",
+        "bottom": "terrestria:block/sakura_door_bottom",
+        "particle": "terrestria:block/sakura_door_top"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_cobblestone_wall_post": {
+      "textures": {
+        "particle": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "wall": "terrestria:block/mossy_volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/andisol_grass_block_snow": {
+      "textures": {
+        "side": "terrestria:block/andisol_grass_block_snow",
+        "east": "terrestria:block/andisol_grass_block_snow",
+        "top": "minecraft:block/grass_block_top",
+        "south": "terrestria:block/andisol_grass_block_snow",
+        "bottom": "terrestria:block/andisol",
+        "north": "terrestria:block/andisol_grass_block_snow",
+        "west": "terrestria:block/andisol_grass_block_snow",
+        "particle": "terrestria:block/andisol",
+        "up": "minecraft:block/grass_block_top",
+        "down": "terrestria:block/andisol"
+      }
+    },
+    "terrestria:block/sakura_leaf_pile": {
+      "textures": {
+        "wool": "terrestria:block/sakura_leaves",
+        "particle": "terrestria:block/sakura_leaves"
+      }
+    },
+    "terrestria:block/willow_fence_gate_wall_open": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/rubber_hanging_sign": {
+      "textures": {
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:item/yucca_palm_chest_boat": {
+      "textures": {
+        "layer0": "terrestria:item/yucca_palm_chest_boat",
+        "layer1": "terrestria:item/yucca_palm_chest_boat"
+      }
+    },
+    "terrestria:block/sakura_sapling": {
+      "textures": {
+        "cross": "terrestria:block/sakura_sapling",
+        "particle": "terrestria:block/sakura_sapling"
+      }
+    },
+    "terrestria:block/volcanic_rock_brick_wall_post": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock_bricks",
+        "wall": "terrestria:block/volcanic_rock_bricks"
+      }
+    },
+    "terrestria:item/stripped_small_oak_log": {
+      "textures": {
+        "all": "minecraft:block/stripped_oak_log",
+        "particle": "minecraft:block/stripped_oak_log"
+      }
+    },
+    "terrestria:block/potted_saguaro_cactus_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/saguaro_cactus_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/japanese_maple_leaves": {
+      "textures": {
+        "all": "terrestria:block/japanese_maple_leaves",
+        "particle": "terrestria:block/japanese_maple_leaves"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock_wall_post": {
+      "textures": {
+        "particle": "terrestria:block/smooth_volcanic_rock",
+        "wall": "terrestria:block/smooth_volcanic_rock"
+      }
+    },
+    "terrestria:item/japanese_maple_chest_boat": {
+      "textures": {
+        "layer0": "terrestria:item/japanese_maple_chest_boat",
+        "layer1": "terrestria:item/japanese_maple_chest_boat"
+      }
+    },
+    "terrestria:block/potted_rubber_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/rubber_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/potted_japanese_maple_shrub_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/japanese_maple_shrub_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_cobblestone_wall_side_tall": {
+      "textures": {
+        "particle": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "wall": "terrestria:block/mossy_volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/yucca_palm_door_bottom_right_open": {
+      "textures": {
+        "top": "terrestria:block/yucca_palm_door_top",
+        "bottom": "terrestria:block/yucca_palm_door_bottom",
+        "particle": "terrestria:block/yucca_palm_door_bottom"
+      }
+    },
+    "terrestria:block/sakura_fence_post": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_brick_slab": {
+      "textures": {
+        "side": "terrestria:block/mossy_volcanic_rock_bricks",
+        "top": "terrestria:block/mossy_volcanic_rock_bricks",
+        "bottom": "terrestria:block/mossy_volcanic_rock_bricks",
+        "particle": "terrestria:block/mossy_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/redwood_door_bottom_left_open": {
+      "textures": {
+        "top": "terrestria:block/redwood_door_top",
+        "bottom": "terrestria:block/redwood_door_bottom",
+        "particle": "terrestria:block/redwood_door_bottom"
+      }
+    },
+    "terrestria:block/stripped_redwood_wood": {
+      "textures": {
+        "side": "terrestria:block/stripped_redwood_log",
+        "east": "terrestria:block/stripped_redwood_log",
+        "south": "terrestria:block/stripped_redwood_log",
+        "north": "terrestria:block/stripped_redwood_log",
+        "west": "terrestria:block/stripped_redwood_log",
+        "end": "terrestria:block/stripped_redwood_log",
+        "particle": "terrestria:block/stripped_redwood_log",
+        "up": "terrestria:block/stripped_redwood_log",
+        "down": "terrestria:block/stripped_redwood_log"
+      }
+    },
+    "terrestria:block/sakura_button_pressed": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/stripped_redwood_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/stripped_redwood_log",
+        "east": "terrestria:block/stripped_redwood_log",
+        "south": "terrestria:block/stripped_redwood_log",
+        "north": "terrestria:block/stripped_redwood_log",
+        "west": "terrestria:block/stripped_redwood_log",
+        "end": "terrestria:block/stripped_redwood_log_top",
+        "particle": "terrestria:block/stripped_redwood_log",
+        "up": "terrestria:block/stripped_redwood_log_top",
+        "down": "terrestria:block/stripped_redwood_log_top"
+      }
+    },
+    "terrestria:block/hemlock_door_bottom_left_open": {
+      "textures": {
+        "top": "terrestria:block/hemlock_door_top",
+        "bottom": "terrestria:block/hemlock_door_bottom",
+        "particle": "terrestria:block/hemlock_door_bottom"
+      }
+    },
+    "terrestria:block/cypress_wood": {
+      "textures": {
+        "side": "terrestria:block/cypress_log",
+        "east": "terrestria:block/cypress_log",
+        "south": "terrestria:block/cypress_log",
+        "north": "terrestria:block/cypress_log",
+        "west": "terrestria:block/cypress_log",
+        "end": "terrestria:block/cypress_log",
+        "particle": "terrestria:block/cypress_log",
+        "up": "terrestria:block/cypress_log",
+        "down": "terrestria:block/cypress_log"
+      }
+    },
+    "terrestria:block/stripped_japanese_maple_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/stripped_japanese_maple_log",
+        "east": "terrestria:block/stripped_japanese_maple_log",
+        "south": "terrestria:block/stripped_japanese_maple_log",
+        "north": "terrestria:block/stripped_japanese_maple_log",
+        "west": "terrestria:block/stripped_japanese_maple_log",
+        "end": "terrestria:block/stripped_japanese_maple_log_top",
+        "particle": "terrestria:block/stripped_japanese_maple_log",
+        "up": "terrestria:block/stripped_japanese_maple_log_top",
+        "down": "terrestria:block/stripped_japanese_maple_log_top"
+      }
+    },
+    "terrestria:block/redwood_slab": {
+      "textures": {
+        "side": "terrestria:block/redwood_planks",
+        "top": "terrestria:block/redwood_planks",
+        "bottom": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_brick_wall_side_tall": {
+      "textures": {
+        "particle": "terrestria:block/mossy_volcanic_rock_bricks",
+        "wall": "terrestria:block/mossy_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:block/sakura_hanging_sign": {
+      "textures": {
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_door_bottom_left_open": {
+      "textures": {
+        "top": "terrestria:block/japanese_maple_door_top",
+        "bottom": "terrestria:block/japanese_maple_door_bottom",
+        "particle": "terrestria:block/japanese_maple_door_bottom"
+      }
+    },
+    "terrestria:block/hemlock_door_top_left_open": {
+      "textures": {
+        "top": "terrestria:block/hemlock_door_top",
+        "bottom": "terrestria:block/hemlock_door_bottom",
+        "particle": "terrestria:block/hemlock_door_top"
+      }
+    },
+    "terrestria:block/stripped_rubber_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/stripped_rubber_log",
+        "east": "terrestria:block/stripped_rubber_log",
+        "south": "terrestria:block/stripped_rubber_log",
+        "north": "terrestria:block/stripped_rubber_log",
+        "west": "terrestria:block/stripped_rubber_log",
+        "end": "terrestria:block/stripped_rubber_log_top",
+        "particle": "terrestria:block/stripped_rubber_log",
+        "up": "terrestria:block/stripped_rubber_log_top",
+        "down": "terrestria:block/stripped_rubber_log_top"
+      }
+    },
+    "terrestria:item/agave": {
+      "textures": {
+        "layer0": "terrestria:block/agave",
+        "layer1": "terrestria:block/agave"
+      }
+    },
+    "terrestria:block/stripped_yucca_palm_log_leaves_cutout": {
+      "textures": {
+        "leaves": "terrestria:block/yucca_palm_leaves",
+        "particle": "terrestria:block/yucca_palm_leaves"
+      }
+    },
+    "terrestria:block/yucca_palm_fence_inventory": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/stripped_redwood_quarter_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_redwood_log",
+        "end": "terrestria:block/stripped_redwood_quarter_log_top",
+        "particle": "terrestria:block/stripped_redwood_log",
+        "inside": "terrestria:block/stripped_redwood_quarter_log"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_bricks": {
+      "textures": {
+        "all": "terrestria:block/mossy_volcanic_rock_bricks",
+        "east": "terrestria:block/mossy_volcanic_rock_bricks",
+        "south": "terrestria:block/mossy_volcanic_rock_bricks",
+        "north": "terrestria:block/mossy_volcanic_rock_bricks",
+        "west": "terrestria:block/mossy_volcanic_rock_bricks",
+        "particle": "terrestria:block/mossy_volcanic_rock_bricks",
+        "up": "terrestria:block/mossy_volcanic_rock_bricks",
+        "down": "terrestria:block/mossy_volcanic_rock_bricks"
+      }
+    },
+    "terrestria:item/rainbow_eucalyptus_sign": {
+      "textures": {
+        "layer0": "terrestria:item/rainbow_eucalyptus_sign",
+        "layer1": "terrestria:item/rainbow_eucalyptus_sign"
+      }
+    },
+    "terrestria:block/smooth_volcanic_rock": {
+      "textures": {
+        "all": "terrestria:block/smooth_volcanic_rock",
+        "east": "terrestria:block/smooth_volcanic_rock",
+        "south": "terrestria:block/smooth_volcanic_rock",
+        "north": "terrestria:block/smooth_volcanic_rock",
+        "west": "terrestria:block/smooth_volcanic_rock",
+        "particle": "terrestria:block/smooth_volcanic_rock",
+        "up": "terrestria:block/smooth_volcanic_rock",
+        "down": "terrestria:block/smooth_volcanic_rock"
+      }
+    },
+    "terrestria:block/volcanic_rock_brick_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock_bricks",
+        "top": "terrestria:block/volcanic_rock_bricks",
+        "bottom": "terrestria:block/volcanic_rock_bricks",
+        "particle": "terrestria:block/volcanic_rock_bricks"
+      }
+    },
+    "terrestria:item/rubber_sign": {
+      "textures": {
+        "layer0": "terrestria:item/rubber_sign",
+        "layer1": "terrestria:item/rubber_sign"
+      }
+    },
+    "terrestria:block/willow_fence_gate_wall": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_sign": {
+      "textures": {
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_slab": {
+      "textures": {
+        "side": "terrestria:block/japanese_maple_planks",
+        "top": "terrestria:block/japanese_maple_planks",
+        "bottom": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/cypress_button": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/rubber_door_top_right_open": {
+      "textures": {
+        "top": "terrestria:block/rubber_door_top",
+        "bottom": "terrestria:block/rubber_door_bottom",
+        "particle": "terrestria:block/rubber_door_top"
+      }
+    },
+    "terrestria:block/hemlock_door_bottom_right": {
+      "textures": {
+        "top": "terrestria:block/hemlock_door_top",
+        "bottom": "terrestria:block/hemlock_door_bottom",
+        "particle": "terrestria:block/hemlock_door_bottom"
+      }
+    },
+    "terrestria:block/rubber_fence_gate_wall_open": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/willow_trapdoor_top": {
+      "textures": {
+        "texture": "terrestria:block/willow_trapdoor",
+        "particle": "terrestria:block/willow_trapdoor"
+      }
+    },
+    "terrestria:block/willow_fence_side": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/willow_wood": {
+      "textures": {
+        "side": "terrestria:block/willow_log",
+        "east": "terrestria:block/willow_log",
+        "south": "terrestria:block/willow_log",
+        "north": "terrestria:block/willow_log",
+        "west": "terrestria:block/willow_log",
+        "end": "terrestria:block/willow_log",
+        "particle": "terrestria:block/willow_log",
+        "up": "terrestria:block/willow_log",
+        "down": "terrestria:block/willow_log"
+      }
+    },
+    "terrestria:block/cypress_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/cypress_log",
+        "east": "terrestria:block/cypress_log",
+        "south": "terrestria:block/cypress_log",
+        "north": "terrestria:block/cypress_log",
+        "west": "terrestria:block/cypress_log",
+        "end": "terrestria:block/cypress_log_top",
+        "particle": "terrestria:block/cypress_log",
+        "up": "terrestria:block/cypress_log_top",
+        "down": "terrestria:block/cypress_log_top"
+      }
+    },
+    "terrestria:block/yucca_palm_hanging_sign": {
+      "textures": {
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/rubber_leaves": {
+      "textures": {
+        "all": "terrestria:block/rubber_leaves",
+        "particle": "terrestria:block/rubber_leaves"
+      }
+    },
+    "terrestria:block/volcanic_rock_stairs": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock",
+        "top": "terrestria:block/volcanic_rock",
+        "bottom": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/redwood_button": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/cypress_stairs": {
+      "textures": {
+        "side": "terrestria:block/cypress_planks",
+        "top": "terrestria:block/cypress_planks",
+        "bottom": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_leaves": {
+      "textures": {
+        "all": "terrestria:block/rainbow_eucalyptus_leaves",
+        "particle": "terrestria:block/rainbow_eucalyptus_leaves"
+      }
+    },
+    "terrestria:item/indian_paintbrush": {
+      "textures": {
+        "layer0": "terrestria:block/indian_paintbrush",
+        "layer1": "terrestria:block/indian_paintbrush"
+      }
+    },
+    "terrestria:block/redwood_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/redwood_planks",
+        "top": "terrestria:block/redwood_planks",
+        "bottom": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_door_top_left": {
+      "textures": {
+        "top": "terrestria:block/yucca_palm_door_top",
+        "bottom": "terrestria:block/yucca_palm_door_bottom",
+        "particle": "terrestria:block/yucca_palm_door_top"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_door_top_right": {
+      "textures": {
+        "top": "terrestria:block/rainbow_eucalyptus_door_top",
+        "bottom": "terrestria:block/rainbow_eucalyptus_door_bottom",
+        "particle": "terrestria:block/rainbow_eucalyptus_door_top"
+      }
+    },
+    "terrestria:block/redwood_log": {
+      "textures": {
+        "side": "terrestria:block/redwood_log",
+        "east": "terrestria:block/redwood_log",
+        "south": "terrestria:block/redwood_log",
+        "north": "terrestria:block/redwood_log",
+        "west": "terrestria:block/redwood_log",
+        "end": "terrestria:block/redwood_log_top",
+        "particle": "terrestria:block/redwood_log",
+        "up": "terrestria:block/redwood_log_top",
+        "down": "terrestria:block/redwood_log_top"
+      }
+    },
+    "terrestria:block/yucca_palm_sapling": {
+      "textures": {
+        "cross": "terrestria:block/yucca_palm_sapling",
+        "particle": "terrestria:block/yucca_palm_sapling"
+      }
+    },
+    "terrestria:block/yucca_palm_fence_side": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:item/rainbow_eucalyptus_hanging_sign": {
+      "textures": {
+        "layer0": "terrestria:item/rainbow_eucalyptus_hanging_sign",
+        "layer1": "terrestria:item/rainbow_eucalyptus_hanging_sign"
+      }
+    },
+    "terrestria:item/yucca_palm_hanging_sign": {
+      "textures": {
+        "layer0": "terrestria:item/yucca_palm_hanging_sign",
+        "layer1": "terrestria:item/yucca_palm_hanging_sign"
+      }
+    },
+    "terrestria:item/hemlock_door": {
+      "textures": {
+        "layer0": "terrestria:item/hemlock_door",
+        "layer1": "terrestria:item/hemlock_door"
+      }
+    },
+    "terrestria:block/redwood_fence_gate_wall": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/saguaro_cactus_sapling": {
+      "textures": {
+        "cross": "terrestria:block/saguaro_cactus_sapling",
+        "particle": "terrestria:block/saguaro_cactus_sapling"
+      }
+    },
+    "terrestria:block/willow_button_inventory": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:item/yucca_palm_sapling": {
+      "textures": {
+        "layer0": "terrestria:block/yucca_palm_sapling",
+        "layer1": "terrestria:block/yucca_palm_sapling"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_fence_gate": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/hemlock_fence_inventory": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/sakura_fence_gate": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/stripped_rubber_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_rubber_log",
+        "east": "terrestria:block/stripped_rubber_log",
+        "south": "terrestria:block/stripped_rubber_log",
+        "north": "terrestria:block/stripped_rubber_log",
+        "west": "terrestria:block/stripped_rubber_log",
+        "end": "terrestria:block/stripped_rubber_log_top",
+        "particle": "terrestria:block/stripped_rubber_log",
+        "up": "terrestria:block/stripped_rubber_log_top",
+        "down": "terrestria:block/stripped_rubber_log_top"
+      }
+    },
+    "terrestria:item/redwood_door": {
+      "textures": {
+        "layer0": "terrestria:item/redwood_door",
+        "layer1": "terrestria:item/redwood_door"
+      }
+    },
+    "terrestria:block/yucca_palm_log": {
+      "textures": {
+        "side": "terrestria:block/yucca_palm_log",
+        "particle": "terrestria:block/yucca_palm_log"
+      }
+    },
+    "terrestria:block/potted_redwood_sapling": {
+      "textures": {
+        "flowerpot": "minecraft:block/flower_pot",
+        "plant": "terrestria:block/redwood_sapling",
+        "dirt": "minecraft:block/dirt",
+        "particle": "minecraft:block/flower_pot"
+      }
+    },
+    "terrestria:block/mossy_volcanic_rock_cobblestone_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "top": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "bottom": "terrestria:block/mossy_volcanic_rock_cobblestone",
+        "particle": "terrestria:block/mossy_volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/japanese_maple_pressure_plate_down": {
+      "textures": {
+        "texture": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/hemlock_fence_side": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/cypress_fence_gate_open": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/stripped_rainbow_eucalyptus_log": {
+      "textures": {
+        "side": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "east": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "south": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "north": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "west": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "end": "terrestria:block/stripped_rainbow_eucalyptus_log_top",
+        "particle": "terrestria:block/stripped_rainbow_eucalyptus_log",
+        "up": "terrestria:block/stripped_rainbow_eucalyptus_log_top",
+        "down": "terrestria:block/stripped_rainbow_eucalyptus_log_top"
+      }
+    },
+    "terrestria:block/hemlock_door_top_right_open": {
+      "textures": {
+        "top": "terrestria:block/hemlock_door_top",
+        "bottom": "terrestria:block/hemlock_door_bottom",
+        "particle": "terrestria:block/hemlock_door_top"
+      }
+    },
+    "terrestria:block/hemlock_button": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/cypress_door_bottom_left": {
+      "textures": {
+        "top": "terrestria:block/cypress_door_top",
+        "bottom": "terrestria:block/cypress_door_bottom",
+        "particle": "terrestria:block/cypress_door_bottom"
+      }
+    },
+    "terrestria:block/hemlock_door_bottom_right_open": {
+      "textures": {
+        "top": "terrestria:block/hemlock_door_top",
+        "bottom": "terrestria:block/hemlock_door_bottom",
+        "particle": "terrestria:block/hemlock_door_bottom"
+      }
+    },
+    "terrestria:block/redwood_stairs": {
+      "textures": {
+        "side": "terrestria:block/redwood_planks",
+        "top": "terrestria:block/redwood_planks",
+        "bottom": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:block/willow_fence_post": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_slab_top": {
+      "textures": {
+        "side": "terrestria:block/rainbow_eucalyptus_planks",
+        "top": "terrestria:block/rainbow_eucalyptus_planks",
+        "bottom": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:block/stripped_yucca_palm_log_branch": {
+      "textures": {
+        "side": "terrestria:block/stripped_yucca_palm_log",
+        "end": "terrestria:block/stripped_yucca_palm_log_top",
+        "particle": "terrestria:block/stripped_yucca_palm_log"
+      }
+    },
+    "terrestria:block/rubber_fence_post": {
+      "textures": {
+        "texture": "terrestria:block/rubber_planks",
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/willow_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/willow_log",
+        "east": "terrestria:block/willow_log",
+        "south": "terrestria:block/willow_log",
+        "north": "terrestria:block/willow_log",
+        "west": "terrestria:block/willow_log",
+        "end": "terrestria:block/willow_log_top",
+        "particle": "terrestria:block/willow_log",
+        "up": "terrestria:block/willow_log_top",
+        "down": "terrestria:block/willow_log_top"
+      }
+    },
+    "terrestria:block/volcanic_rock_button": {
+      "textures": {
+        "texture": "terrestria:block/volcanic_rock",
+        "particle": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:block/saguaro_cactus_branch": {
+      "textures": {
+        "side": "terrestria:block/saguaro_cactus",
+        "end": "terrestria:block/saguaro_cactus_top",
+        "particle": "terrestria:block/saguaro_cactus"
+      }
+    },
+    "terrestria:block/japanese_maple_log": {
+      "textures": {
+        "side": "terrestria:block/japanese_maple_log",
+        "east": "terrestria:block/japanese_maple_log",
+        "south": "terrestria:block/japanese_maple_log",
+        "north": "terrestria:block/japanese_maple_log",
+        "west": "terrestria:block/japanese_maple_log",
+        "end": "terrestria:block/japanese_maple_log_top",
+        "particle": "terrestria:block/japanese_maple_log",
+        "up": "terrestria:block/japanese_maple_log_top",
+        "down": "terrestria:block/japanese_maple_log_top"
+      }
+    },
+    "terrestria:block/willow_fence_gate": {
+      "textures": {
+        "texture": "terrestria:block/willow_planks",
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:item/rubber_chest_boat": {
+      "textures": {
+        "layer0": "terrestria:item/rubber_chest_boat",
+        "layer1": "terrestria:item/rubber_chest_boat"
+      }
+    },
+    "terrestria:block/rubber_log_horizontal": {
+      "textures": {
+        "side": "terrestria:block/rubber_log",
+        "east": "terrestria:block/rubber_log",
+        "south": "terrestria:block/rubber_log",
+        "north": "terrestria:block/rubber_log",
+        "west": "terrestria:block/rubber_log",
+        "end": "terrestria:block/rubber_log_top",
+        "particle": "terrestria:block/rubber_log",
+        "up": "terrestria:block/rubber_log_top",
+        "down": "terrestria:block/rubber_log_top"
+      }
+    },
+    "terrestria:block/hemlock_fence_gate_wall_open": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_door_top_right": {
+      "textures": {
+        "top": "terrestria:block/japanese_maple_door_top",
+        "bottom": "terrestria:block/japanese_maple_door_bottom",
+        "particle": "terrestria:block/japanese_maple_door_top"
+      }
+    },
+    "terrestria:block/willow_log": {
+      "textures": {
+        "side": "terrestria:block/willow_log",
+        "east": "terrestria:block/willow_log",
+        "south": "terrestria:block/willow_log",
+        "north": "terrestria:block/willow_log",
+        "west": "terrestria:block/willow_log",
+        "end": "terrestria:block/willow_log_top",
+        "particle": "terrestria:block/willow_log",
+        "up": "terrestria:block/willow_log_top",
+        "down": "terrestria:block/willow_log_top"
+      }
+    },
+    "terrestria:block/volcanic_rock_cobblestone_stairs": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock_cobblestone",
+        "top": "terrestria:block/volcanic_rock_cobblestone",
+        "bottom": "terrestria:block/volcanic_rock_cobblestone",
+        "particle": "terrestria:block/volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/rubber_sign": {
+      "textures": {
+        "particle": "terrestria:block/rubber_planks"
+      }
+    },
+    "terrestria:block/jungle_palm_sapling": {
+      "textures": {
+        "cross": "terrestria:block/jungle_palm_sapling",
+        "particle": "terrestria:block/jungle_palm_sapling"
+      }
+    },
+    "terrestria:block/japanese_maple_door_top_left_open": {
+      "textures": {
+        "top": "terrestria:block/japanese_maple_door_top",
+        "bottom": "terrestria:block/japanese_maple_door_bottom",
+        "particle": "terrestria:block/japanese_maple_door_top"
+      }
+    },
+    "terrestria:block/cypress_trapdoor_open": {
+      "textures": {
+        "texture": "terrestria:block/cypress_trapdoor",
+        "particle": "terrestria:block/cypress_trapdoor"
+      }
+    },
+    "terrestria:block/sakura_log_leaves": {
+      "textures": {
+        "leaves": "terrestria:block/sakura_leaves",
+        "particle": "terrestria:block/sakura_leaves"
+      }
+    },
+    "terrestria:item/small_oak_log": {
+      "textures": {
+        "all": "minecraft:block/oak_log",
+        "particle": "minecraft:block/oak_log"
+      }
+    },
+    "terrestria:block/volcanic_rock_cobblestone_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/volcanic_rock_cobblestone",
+        "top": "terrestria:block/volcanic_rock_cobblestone",
+        "bottom": "terrestria:block/volcanic_rock_cobblestone",
+        "particle": "terrestria:block/volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/cypress_button_pressed": {
+      "textures": {
+        "texture": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/redwood_quarter_log": {
+      "textures": {
+        "side": "terrestria:block/redwood_log",
+        "end": "terrestria:block/redwood_quarter_log_top",
+        "particle": "terrestria:block/redwood_log",
+        "inside": "terrestria:block/redwood_quarter_log"
+      }
+    },
+    "terrestria:item/hemlock_chest_boat": {
+      "textures": {
+        "layer0": "terrestria:item/hemlock_chest_boat",
+        "layer1": "terrestria:item/hemlock_chest_boat"
+      }
+    },
+    "terrestria:block/redwood_fence_gate_wall_open": {
+      "textures": {
+        "texture": "terrestria:block/redwood_planks",
+        "particle": "terrestria:block/redwood_planks"
+      }
+    },
+    "terrestria:item/saguaro_cactus": {
+      "textures": {
+        "all": "terrestria:block/saguaro_cactus",
+        "particle": "terrestria:block/saguaro_cactus"
+      }
+    },
+    "terrestria:block/volcanic_rock_wall_side_tall": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock",
+        "wall": "terrestria:block/volcanic_rock"
+      }
+    },
+    "terrestria:item/willow_chest_boat": {
+      "textures": {
+        "layer0": "terrestria:item/willow_chest_boat",
+        "layer1": "terrestria:item/willow_chest_boat"
+      }
+    },
+    "terrestria:block/hemlock_stairs": {
+      "textures": {
+        "side": "terrestria:block/hemlock_planks",
+        "top": "terrestria:block/hemlock_planks",
+        "bottom": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/dark_japanese_maple_sapling": {
+      "textures": {
+        "cross": "terrestria:block/dark_japanese_maple_sapling",
+        "particle": "terrestria:block/dark_japanese_maple_sapling"
+      }
+    },
+    "terrestria:block/stripped_hemlock_wood": {
+      "textures": {
+        "side": "terrestria:block/stripped_hemlock_log",
+        "east": "terrestria:block/stripped_hemlock_log",
+        "south": "terrestria:block/stripped_hemlock_log",
+        "north": "terrestria:block/stripped_hemlock_log",
+        "west": "terrestria:block/stripped_hemlock_log",
+        "end": "terrestria:block/stripped_hemlock_log",
+        "particle": "terrestria:block/stripped_hemlock_log",
+        "up": "terrestria:block/stripped_hemlock_log",
+        "down": "terrestria:block/stripped_hemlock_log"
+      }
+    },
+    "terrestria:block/rubber_trapdoor_bottom": {
+      "textures": {
+        "texture": "terrestria:block/rubber_trapdoor",
+        "particle": "terrestria:block/rubber_trapdoor"
+      }
+    },
+    "terrestria:block/redwood_sapling": {
+      "textures": {
+        "cross": "terrestria:block/redwood_sapling",
+        "particle": "terrestria:block/redwood_sapling"
+      }
+    },
+    "terrestria:block/japanese_maple_hanging_sign": {
+      "textures": {
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_slab_top": {
+      "textures": {
+        "side": "terrestria:block/japanese_maple_planks",
+        "top": "terrestria:block/japanese_maple_planks",
+        "bottom": "terrestria:block/japanese_maple_planks",
+        "particle": "terrestria:block/japanese_maple_planks"
+      }
+    },
+    "terrestria:item/aloe_vera": {
+      "textures": {
+        "layer0": "terrestria:block/aloe_vera",
+        "layer1": "terrestria:block/aloe_vera"
+      }
+    },
+    "terrestria:block/japanese_maple_door_bottom_left": {
+      "textures": {
+        "top": "terrestria:block/japanese_maple_door_top",
+        "bottom": "terrestria:block/japanese_maple_door_bottom",
+        "particle": "terrestria:block/japanese_maple_door_bottom"
+      }
+    },
+    "terrestria:block/cypress_door_bottom_right": {
+      "textures": {
+        "top": "terrestria:block/cypress_door_top",
+        "bottom": "terrestria:block/cypress_door_bottom",
+        "particle": "terrestria:block/cypress_door_bottom"
+      }
+    },
+    "terrestria:block/sakura_button": {
+      "textures": {
+        "texture": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/hemlock_stairs_inner": {
+      "textures": {
+        "side": "terrestria:block/hemlock_planks",
+        "top": "terrestria:block/hemlock_planks",
+        "bottom": "terrestria:block/hemlock_planks",
+        "particle": "terrestria:block/hemlock_planks"
+      }
+    },
+    "terrestria:block/yucca_palm_slab": {
+      "textures": {
+        "side": "terrestria:block/yucca_palm_planks",
+        "top": "terrestria:block/yucca_palm_planks",
+        "bottom": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/cypress_door_bottom_left_open": {
+      "textures": {
+        "top": "terrestria:block/cypress_door_top",
+        "bottom": "terrestria:block/cypress_door_bottom",
+        "particle": "terrestria:block/cypress_door_bottom"
+      }
+    },
+    "terrestria:block/sakura_trapdoor_bottom": {
+      "textures": {
+        "texture": "terrestria:block/sakura_trapdoor",
+        "particle": "terrestria:block/sakura_trapdoor"
+      }
+    },
+    "terrestria:block/stripped_small_oak_log": {
+      "textures": {
+        "side": "minecraft:block/stripped_oak_log",
+        "particle": "minecraft:block/stripped_oak_log"
+      }
+    },
+    "terrestria:block/sakura_stairs": {
+      "textures": {
+        "side": "terrestria:block/sakura_planks",
+        "top": "terrestria:block/sakura_planks",
+        "bottom": "terrestria:block/sakura_planks",
+        "particle": "terrestria:block/sakura_planks"
+      }
+    },
+    "terrestria:block/japanese_maple_shrub_leaves": {
+      "textures": {
+        "all": "terrestria:block/japanese_maple_shrub_leaves",
+        "particle": "terrestria:block/japanese_maple_shrub_leaves"
+      }
+    },
+    "terrestria:item/willow_door": {
+      "textures": {
+        "layer0": "terrestria:item/willow_door",
+        "layer1": "terrestria:item/willow_door"
+      }
+    },
+    "terrestria:block/indian_paintbrush": {
+      "textures": {
+        "cross": "terrestria:block/indian_paintbrush",
+        "particle": "terrestria:block/indian_paintbrush"
+      }
+    },
+    "terrestria:block/cypress_stairs_outer": {
+      "textures": {
+        "side": "terrestria:block/cypress_planks",
+        "top": "terrestria:block/cypress_planks",
+        "bottom": "terrestria:block/cypress_planks",
+        "particle": "terrestria:block/cypress_planks"
+      }
+    },
+    "terrestria:block/volcanic_rock_cobblestone_wall_post": {
+      "textures": {
+        "particle": "terrestria:block/volcanic_rock_cobblestone",
+        "wall": "terrestria:block/volcanic_rock_cobblestone"
+      }
+    },
+    "terrestria:block/rainbow_eucalyptus_fence_side": {
+      "textures": {
+        "texture": "terrestria:block/rainbow_eucalyptus_planks",
+        "particle": "terrestria:block/rainbow_eucalyptus_planks"
+      }
+    },
+    "terrestria:item/rainbow_eucalyptus_boat": {
+      "textures": {
+        "layer0": "terrestria:item/rainbow_eucalyptus_boat",
+        "layer1": "terrestria:item/rainbow_eucalyptus_boat"
+      }
+    },
+    "terrestria:block/volcanic_sand": {
+      "textures": {
+        "all": "terrestria:block/volcanic_sand",
+        "east": "terrestria:block/volcanic_sand",
+        "south": "terrestria:block/volcanic_sand",
+        "north": "terrestria:block/volcanic_sand",
+        "west": "terrestria:block/volcanic_sand",
+        "particle": "terrestria:block/volcanic_sand",
+        "up": "terrestria:block/volcanic_sand",
+        "down": "terrestria:block/volcanic_sand"
+      }
+    },
+    "terrestria:block/rubber_door_bottom_right_open": {
+      "textures": {
+        "top": "terrestria:block/rubber_door_top",
+        "bottom": "terrestria:block/rubber_door_bottom",
+        "particle": "terrestria:block/rubber_door_bottom"
+      }
+    },
+    "terrestria:block/sakura_door_top_right_open": {
+      "textures": {
+        "top": "terrestria:block/sakura_door_top",
+        "bottom": "terrestria:block/sakura_door_bottom",
+        "particle": "terrestria:block/sakura_door_top"
+      }
+    },
+    "terrestria:block/yucca_palm_slab_top": {
+      "textures": {
+        "side": "terrestria:block/yucca_palm_planks",
+        "top": "terrestria:block/yucca_palm_planks",
+        "bottom": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    },
+    "terrestria:block/willow_hanging_sign": {
+      "textures": {
+        "particle": "terrestria:block/willow_planks"
+      }
+    },
+    "terrestria:block/rubber_door_top_left": {
+      "textures": {
+        "top": "terrestria:block/rubber_door_top",
+        "bottom": "terrestria:block/rubber_door_bottom",
+        "particle": "terrestria:block/rubber_door_top"
+      }
+    },
+    "terrestria:block/hemlock_trapdoor_bottom": {
+      "textures": {
+        "texture": "terrestria:block/hemlock_trapdoor",
+        "particle": "terrestria:block/hemlock_trapdoor"
+      }
+    },
+    "terrestria:block/yucca_palm_button_pressed": {
+      "textures": {
+        "texture": "terrestria:block/yucca_palm_planks",
+        "particle": "terrestria:block/yucca_palm_planks"
+      }
+    }
+  }
+}

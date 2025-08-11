@@ -1,0 +1,239 @@
+{
+  "materials": {
+    "waystones:item/warp_scroll": {
+      "textures": {
+        "layer0": "waystones:item/warp_scroll",
+        "layer1": "waystones:item/warp_scroll"
+      }
+    },
+    "waystones:item/blackstone_waystone": {
+      "textures": {
+        "texture": "waystones:block/blackstone_waystone",
+        "particle": "minecraft:block/blackstone"
+      }
+    },
+    "waystones:block/mossy_waystone_bottom": {
+      "textures": {
+        "texture": "waystones:block/mossy_andesite_waystone",
+        "particle": "waystones:block/mossy_andesite_waystone"
+      }
+    },
+    "waystones:item/sharestone": {
+      "textures": {
+        "1": "minecraft:waystone_overlays/sharestone_color",
+        "texture": "waystones:block/andesite_waystone",
+        "particle": "minecraft:block/andesite"
+      }
+    },
+    "waystones:block/sandy_waystone_top": {
+      "textures": {
+        "texture": "waystones:block/chiseled_sandstone_waystone",
+        "particle": "minecraft:block/chiseled_sandstone"
+      }
+    },
+    "waystones:item/warp_dust": {
+      "textures": {
+        "layer0": "waystones:item/warp_dust",
+        "layer1": "waystones:item/warp_dust"
+      }
+    },
+    "waystones:block/blackstone_waystone_bottom": {
+      "textures": {
+        "texture": "waystones:block/blackstone_waystone",
+        "particle": "minecraft:block/blackstone"
+      }
+    },
+    "waystones:block/waystone_bottom": {
+      "textures": {
+        "texture": "waystones:block/andesite_waystone",
+        "particle": "minecraft:block/polished_andesite"
+      }
+    },
+    "waystones:block/blackstone_waystone_top": {
+      "textures": {
+        "texture": "waystones:block/blackstone_waystone",
+        "particle": "minecraft:block/blackstone"
+      }
+    },
+    "waystones:block/sharestone_top": {
+      "textures": {
+        "texture": "waystones:block/andesite_waystone",
+        "particle": "minecraft:block/andesite"
+      }
+    },
+    "waystones:block/end_stone_waystone_top": {
+      "textures": {
+        "texture": "waystones:block/end_stone_waystone",
+        "particle": "minecraft:block/end_stone_bricks"
+      }
+    },
+    "waystones:item/deepslate_waystone": {
+      "textures": {
+        "texture": "waystones:block/deepslate_waystone",
+        "particle": "minecraft:block/deepslate"
+      }
+    },
+    "waystones:item/end_stone_waystone": {
+      "textures": {
+        "texture": "waystones:block/end_stone_waystone",
+        "particle": "minecraft:block/end_stone"
+      }
+    },
+    "waystones:block/warp_plate": {
+      "textures": {
+        "3": "waystones:block/warp_plate_runes",
+        "texture": "waystones:block/warp_plate",
+        "particle": "waystones:block/warp_plate",
+        "base": "waystones:block/warp_plate_base"
+      }
+    },
+    "waystones:block/waystone_top": {
+      "textures": {
+        "texture": "waystones:block/andesite_waystone",
+        "particle": "minecraft:block/polished_andesite"
+      }
+    },
+    "waystones:item/sandy_waystone": {
+      "textures": {
+        "texture": "waystones:block/chiseled_sandstone_waystone",
+        "particle": "minecraft:block/chiseled_sandstone"
+      }
+    },
+    "waystones:item/dormant_shard": {
+      "textures": {
+        "layer0": "waystones:item/dormant_shard",
+        "layer1": "waystones:item/dormant_shard"
+      }
+    },
+    "waystones:block/warp_plate_empty": {
+      "textures": {
+        "texture": "waystones:block/warp_plate",
+        "particle": "waystones:block/warp_plate",
+        "base": "waystones:block/warp_plate_base"
+      }
+    },
+    "waystones:item/blank_scroll": {
+      "textures": {
+        "layer0": "waystones:item/blank_scroll",
+        "layer1": "waystones:item/blank_scroll"
+      }
+    },
+    "waystones:block/deepslate_waystone_bottom": {
+      "textures": {
+        "texture": "waystones:block/deepslate_waystone",
+        "particle": "minecraft:block/deepslate"
+      }
+    },
+    "waystones:block/sharestone_bottom": {
+      "textures": {
+        "texture": "waystones:block/andesite_waystone",
+        "particle": "minecraft:block/andesite"
+      }
+    },
+    "waystones:block/sandy_waystone_bottom": {
+      "textures": {
+        "texture": "waystones:block/chiseled_sandstone_waystone",
+        "particle": "minecraft:block/chiseled_sandstone"
+      }
+    },
+    "waystones:item/bound_scroll": {
+      "textures": {
+        "layer0": "waystones:item/bound_scroll",
+        "layer1": "waystones:item/bound_scroll"
+      }
+    },
+    "waystones:block/portstone_runes": {
+      "textures": {
+        "3": "waystones:block/portstone_runes"
+      }
+    },
+    "waystones:block/warp_plate_locked": {
+      "textures": {
+        "3": "waystones:block/warp_plate_lock",
+        "texture": "waystones:block/warp_plate",
+        "particle": "waystones:block/warp_plate",
+        "base": "waystones:block/warp_plate_base"
+      }
+    },
+    "waystones:block/end_stone_waystone_bottom": {
+      "textures": {
+        "texture": "waystones:block/end_stone_waystone",
+        "particle": "minecraft:block/end_stone_bricks"
+      }
+    },
+    "waystones:block/portstone_top": {
+      "textures": {
+        "texture": "waystones:block/andesite_waystone",
+        "particle": "minecraft:block/andesite"
+      }
+    },
+    "waystones:item/deepslate_shard": {
+      "textures": {
+        "layer0": "waystones:item/deepslate_shard",
+        "layer1": "waystones:item/deepslate_shard"
+      }
+    },
+    "waystones:block/portstone_bottom": {
+      "textures": {
+        "texture": "waystones:block/andesite_waystone",
+        "particle": "minecraft:block/andesite"
+      }
+    },
+    "waystones:item/portstone": {
+      "textures": {
+        "1": "waystones:item/warp_stone",
+        "runes": "minecraft:waystone_overlays/portstone",
+        "texture": "waystones:block/andesite_waystone",
+        "particle": "waystones:item/warp_stone"
+      }
+    },
+    "waystones:item/return_scroll": {
+      "textures": {
+        "layer0": "waystones:item/return_scroll",
+        "layer1": "waystones:item/return_scroll"
+      }
+    },
+    "waystones:item/crumbling_attuned_shard": {
+      "textures": {
+        "layer0": "waystones:item/crumbling_attuned_shard",
+        "layer1": "waystones:item/crumbling_attuned_shard"
+      }
+    },
+    "waystones:item/waystone": {
+      "textures": {
+        "texture": "waystones:block/andesite_waystone",
+        "particle": "minecraft:block/polished_andesite"
+      }
+    },
+    "waystones:block/mossy_waystone_top": {
+      "textures": {
+        "texture": "waystones:block/mossy_andesite_waystone",
+        "particle": "waystones:block/mossy_andesite_waystone"
+      }
+    },
+    "waystones:item/attuned_shard": {
+      "textures": {
+        "layer0": "waystones:item/attuned_shard",
+        "layer1": "waystones:item/attuned_shard"
+      }
+    },
+    "waystones:block/deepslate_waystone_top": {
+      "textures": {
+        "texture": "waystones:block/deepslate_waystone",
+        "particle": "minecraft:block/deepslate"
+      }
+    },
+    "waystones:item/warp_stone": {
+      "textures": {
+        "layer0": "waystones:item/warp_stone",
+        "layer1": "waystones:item/warp_stone"
+      }
+    },
+    "waystones:item/mossy_waystone": {
+      "textures": {
+        "texture": "waystones:block/mossy_andesite_waystone",
+        "particle": "waystones:block/mossy_andesite_waystone"
+      }
+    }
+  }
+}
