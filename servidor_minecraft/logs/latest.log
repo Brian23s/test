@@ -455,3 +455,7 @@ Contact the server's administrator for more information!
 [15:26:33] [Server thread/INFO]: .DeMiguer05[/127.184.244.131:0] logged in with entity id 6648 at (-363.1069, 69.0, 530.09186)
 [15:26:33] [Server thread/INFO]: Floodgate player logged in as .DeMiguer05 joined (UUID: 00000000-0000-0000-0009-01f05793e41b)
 [15:26:33] [Server thread/INFO]: .DeMiguer05 joined the game
+[15:29:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-365, y=69, z=529} class_2338{x=-392, y=64, z=603}
+[15:29:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-351, y=63, z=645} class_2338{x=-315, y=63, z=647}
+[15:29:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-351, y=63, z=645} class_2338{x=-313, y=63, z=644}
+[15:37:31] [Server thread/INFO]: .DeMiguer05 has made the advancement [Acquire Hardware]
